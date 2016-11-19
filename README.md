@@ -2,11 +2,9 @@
 Welcome 
 ===================
 
-# Python-Learning-Resources
-
 This is a set of useful resources of Python. 
 
-Documentation
+Documentations
 -------------
 
 #### 1. Python 2.7.12 documentation 
@@ -66,7 +64,7 @@ Courses
 ----------
 
 
-Publication
+Publications
 -------------
 
 #### 1. Learning Python, 5th Edition
