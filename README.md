@@ -98,18 +98,6 @@ http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c0
 ----------
 
 
-### Table of contents
-
-[TOC]
-
-
-### Support StackEdit
-
-[![](https://cdn.monetizejs.com/resources/button-32.png)](https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&summary=true)
-
-  [^stackedit]: [StackEdit](https://stackedit.io/) is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
-
-
   [1]: https://cn.udacity.com/course/programming-foundations-with-python--ud036/
   [2]: https://cn.udacity.com/course/intro-to-data-analysis--ud170
   [3]: http://pan.baidu.com/s/1i4MYigt
