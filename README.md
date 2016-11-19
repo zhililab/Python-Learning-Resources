@@ -2,7 +2,14 @@
 Welcome 
 ===================
 
+
 This is a set of useful resources of Python. 
+
+I highly recommend the Jupyter Notebook ( http://jupyter.org/ ) which is WYSIWYG(What You See is What You Get) Python 
+
+computing interactive data science and scientific computing :)
+
+Take my Udacity project as an example : http://nbviewer.jupyter.org/github/Zhi-Li/Investigate-a-Dataset/blob/master/DA_Titanic_Data%20.ipynb
 
 Documentations
 -------------
