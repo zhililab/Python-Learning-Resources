@@ -1,5 +1,6 @@
+![Build Status](https://travis-ci.org/benhamner/Metrics.png)
 
-Welcome 
+WELCOME
 ===================
 
 
@@ -11,7 +12,7 @@ computing interactive data science and scientific computing :)
 
 Take my Udacity project as an example : http://nbviewer.jupyter.org/github/Zhi-Li/Investigate-a-Dataset/blob/master/DA_Titanic_Data%20.ipynb
 
-Documentations
+Part 1 DOCUMENTATIONS
 -------------
 
 #### 1. Python 2.7.12 documentation 
@@ -49,29 +50,29 @@ http://www.nltk.org/
 ----------
 
 
-Courses
+Part 2 COURSES
 -------------------
 
-#### 1 编程基础：Python (Udacity)
-[课程链接][1]
+#### 1 Intro to Programming：Python (Udacity)
+[Link][1]
 
 > **Note:**
 > - This is a fundanmental Python Course from OOP(Obeject-Oriented Programming) perspective.
 
-#### 2 数据分析入门 (Udacity)
+#### 2 Intro to Data Analysis (Udacity)
 
-[课程链接][2]
+[Link][2]
 
 > **Note:**
 > - This is a preliminary course for Data Analysis with powerful Python packages such as Numpy/Pandas.
 
-#### 3 Python 3 英文视频教程
-[课程链接][3]
+#### 3 Python 3 Tutorial
+[Link][3]
 
 ----------
 
 
-Publications
+Part 3 BOOKS
 -------------
 
 #### 1. Learning Python, 5th Edition
@@ -93,7 +94,7 @@ Publications
 ----------
 
 
-Blogs/Websites
+Part 4 WEBSITES
 -------------
 
 #### 1. Python 3 - Xuefeng Liao (Chinese)
@@ -114,7 +115,7 @@ https://www.kdnuggets.com
   [3]: http://pan.baidu.com/s/1i4MYigt
 
 
-Contests
+Part 5 CONTESTS
 -------------
 
 As the saying goes *Pratice Makes Perfect !*
