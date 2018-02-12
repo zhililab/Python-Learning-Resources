@@ -76,29 +76,35 @@ Publications
 
 #### 1. Learning Python, 5th Edition
 
-[链接]http://pan.baidu.com/s/1miNimZA
+[Link]http://pan.baidu.com/s/1miNimZA
 
 #### 2. 用Python进行自然语言处理
 
-[链接]http://pan.baidu.com/s/1jIwNSkY
+[Link]http://pan.baidu.com/s/1jIwNSkY
 
 #### 3. Python Data Visualization Cookbook
 
-[链接]http://pan.baidu.com/s/1o8wFH4u
+[Link]http://pan.baidu.com/s/1o8wFH4u
 
 #### 4. 利用Python进行数据分析
 
-[链接]http://pan.baidu.com/s/1gfa9u8N
+[Link]http://pan.baidu.com/s/1gfa9u8N
 
 ----------
 
 
-Blog
+Blogs/Websites
 -------------
 
-#### 1. Python 3教程 - 廖雪峰的官方网站
+#### 1. Python 3 - Xuefeng Liao (Chinese)
 
 http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+
+#### 2. KDnuggets (English)
+
+https://www.kdnuggets.com
+
+" KDnuggets™ is a leading site on Business Analytics, Big Data, Data Mining, Data Science, and Machine Learning and is edited by Gregory Piatetsky-Shapiro (email to editor1 at kdnuggets) and Matthew Mayo (email to mattmayo at kdnuggets). " via KDnuggets
 
 ----------
 
@@ -106,7 +112,19 @@ http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c0
   [1]: https://cn.udacity.com/course/programming-foundations-with-python--ud036/
   [2]: https://cn.udacity.com/course/intro-to-data-analysis--ud170
   [3]: http://pan.baidu.com/s/1i4MYigt
- 
 
+
+Contests
+-------------
+
+As the saying goes *Pratice Makes Perfect !*
+
+#### 1. Kaggle (Google)
+
+https://www.kaggle.com
+
+#### 2. Tianchi (Alibaba)
+
+https://tianchi.aliyun.com/
 
 Last updated: 2018.02.13
