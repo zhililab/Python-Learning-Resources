@@ -35,17 +35,13 @@ http://pandas.pydata.org/pandas-docs/stable/
 
 http://matplotlib.org/contents.html
 
-> **Note:**
-
-> - Matplotlib is a very effective and deliberate pakcage in data visualization. 
+Matplotlib is a very effective and deliberate pakcage in data visualization. 
 
 #### 6. NLTK Reference
 
 http://www.nltk.org/
 
-> **Note:**
-
-> - NLTK is an abbreviation for Natural Language Toolkit which is very powerful and easy-using toolkit in NLP(Natural Language Processing)
+NLTK is an abbreviation for Natural Language Toolkit which is very powerful and easy-using toolkit in NLP(Natural Language Processing)
 
 ----------
 
@@ -56,15 +52,13 @@ Part 2 COURSES
 #### 1 Intro to Programming：Python (Udacity)
 [Link][1]
 
-> **Note:**
-> - This is a fundanmental Python Course from OOP(Obeject-Oriented Programming) perspective.
+This is a fundanmental Python Course from OOP(Obeject-Oriented Programming) perspective.
 
 #### 2 Intro to Data Analysis (Udacity)
 
 [Link][2]
 
-> **Note:**
-> - This is a preliminary course for Data Analysis with powerful Python packages such as Numpy/Pandas.
+This is a preliminary course for Data Analysis with powerful Python packages such as Numpy/Pandas.
 
 #### 3 Python 3 Tutorial
 [Link][3]
