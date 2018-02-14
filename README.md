@@ -10,7 +10,7 @@ I highly recommend the Jupyter Notebook ( http://jupyter.org/ ) which is WYSIWYG
 
 computing interactive data science and scientific computing :)
 
-Take my Udacity project as an example : http://nbviewer.jupyter.org/github/Zhi-Li/Investigate-a-Dataset/blob/master/DA_Titanic_Data%20.ipynb
+Take my Udacity project as an example : [link](http://nbviewer.jupyter.org/github/Zhi-Li/Investigate-a-Dataset/blob/master/DA_Titanic_Data%20.ipynb)
 
 Part 1 DOCUMENTATIONS
 -------------
