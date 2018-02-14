@@ -101,6 +101,10 @@ https://www.kdnuggets.com
 
 " KDnuggets™ is a leading site on Business Analytics, Big Data, Data Mining, Data Science, and Machine Learning and is edited by Gregory Piatetsky-Shapiro (email to editor1 at kdnuggets) and Matthew Mayo (email to mattmayo at kdnuggets). " via KDnuggets
 
+#### 3. FlowingData (English)
+
+http://flowingdata.com/
+
 ----------
 
 
