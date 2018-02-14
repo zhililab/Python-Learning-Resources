@@ -49,19 +49,15 @@ NLTK is an abbreviation for Natural Language Toolkit which is very powerful and 
 Part 2 COURSES
 -------------------
 
-#### 1 Intro to Programming：Python (Udacity)
-[Link][1]
+#### 1 Intro to Programming：Python (Udacity) [Link][1]
 
 This is a fundanmental Python Course from OOP(Obeject-Oriented Programming) perspective.
 
-#### 2 Intro to Data Analysis (Udacity)
-
-[Link][2]
+#### 2 Intro to Data Analysis (Udacity) [Link][2]
 
 This is a preliminary course for Data Analysis with powerful Python packages such as Numpy/Pandas.
 
-#### 3 Python 3 Tutorial
-[Link][3]
+#### 3 Python 3 Tutorial [Link][3]
 
 ----------
 
@@ -69,21 +65,13 @@ This is a preliminary course for Data Analysis with powerful Python packages suc
 Part 3 BOOKS
 -------------
 
-#### 1. Learning Python, 5th Edition
+#### 1. Learning Python, 5th Edition [Link](http://pan.baidu.com/s/1miNimZA)
 
-[Link]http://pan.baidu.com/s/1miNimZA
+#### 2. 用Python进行自然语言处理 [Link](http://pan.baidu.com/s/1jIwNSkY)
 
-#### 2. 用Python进行自然语言处理
+#### 3. Python Data Visualization Cookbook [Link](http://pan.baidu.com/s/1o8wFH4u)
 
-[Link]http://pan.baidu.com/s/1jIwNSkY
-
-#### 3. Python Data Visualization Cookbook
-
-[Link]http://pan.baidu.com/s/1o8wFH4u
-
-#### 4. 利用Python进行数据分析
-
-[Link]http://pan.baidu.com/s/1gfa9u8N
+#### 4. 利用Python进行数据分析 [Link](http://pan.baidu.com/s/1gfa9u8N)
 
 ----------
 
