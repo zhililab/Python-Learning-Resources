@@ -1,100 +1,76 @@
+# Python Learning Resources
 
-![Build Status](https://travis-ci.org/benhamner/Metrics.png)
+Welcome!  This repository collects carefully curated resources to help you
+learn and grow as a Python developer.  Whether you're new to the
+language or looking to deepen your expertise, you'll find tutorials,
+courses, best practice guidelines and inspiring open source projects
+here.  The document is regenerated automatically on a daily basis to
+keep the content fresh and relevant.
 
-WELCOME
-===================
+## Tutorials & Courses
 
-This is a set of useful resources for python learning. 
+* **Write Effective Docstrings** – Real Python's recent article shows how to document your
+  functions and classes clearly and professionally using built‑in
+  conventions【156047168182090†L29-L33】.
+* **60+ Python Project Ideas** – Dataquest's guide encourages learning by
+  building projects.  It suggests beginner projects such as an
+  interactive word game, analyzing your Netflix data, predicting heart
+  disease, exploring Hacker News posts, and analyzing eBay car sales
+  data【904153524833764†L50-L67】.
+* **Intro to Python for Data Science** – DataCamp's course provides an
+  accessible introduction to Python and its data ecosystem【949811956147805†L52-L55】.
+* **Python 100 Days** – A hands‑on Chinese course that takes you from
+  beginner to advanced through 100 days of projects【836895632859947†L307-L317】.
 
-I highly recommend the [Jupyter Notebook](https://jupyter.org/)(interactive data science and scientific computing tool).
+If you prefer guided learning paths, [Real Python](https://realpython.com/)
+and [Dataquest](https://www.dataquest.io/blog/python-projects-for-beginners/)
+offer curated courses and project‑based learning.
 
-For anyone who want to share and view jupyter notebook, [nbviewer](http://nbviewer.jupyter.org/) can be an efficient tool.
+## Best Practices
 
+Writing clean, maintainable code is essential for any developer.  Here are
+some key takeaways from the Python community’s style guides and
+literature:
 
-Part 1 DOCUMENTATIONS
--------------
-*Docs in compute science maybe one of the most valuable  resources for people who wanna walk into the filed.
-#### 1. Python Documentaion
+* **Follow PEP 8** – Use 4 spaces per indentation level and limit lines
+  to around 79 characters to improve readability【615368974677617†L119-L176】.  Separate
+  functions and classes with blank lines and group related code
+  logically【615368974677617†L119-L176】.
+* **Meaningful Names** – Choose descriptive variable, function and class
+  names.  Avoid single‑letter names except for short loop variables.
+* **Use Docstrings** – Document modules, classes and functions using
+  triple‑quoted strings so that users understand the API and internal
+  behavior【156047168182090†L29-L33】.
+* **Keep Functions Small** – Each function should do one thing well.  If a
+  function grows too long, consider breaking it into smaller helpers.
+* **Leverage Linters and Formatters** – Tools like ``flake8``, ``pylint``
+  and ``black`` help ensure stylistic consistency and catch common
+  mistakes【826886253017015†L146-L179】.
+* **Test Your Code** – Adopt a test‑driven workflow: write tests first,
+  implement the functionality and then refactor.  Automated tests
+  increase confidence when refactoring and deploying changes.
+* **Readability Over Cleverness** – Clear and straightforward code is
+  preferred over overly clever constructs.  Remember, code is read more
+  often than it is written【615368974677617†L89-L97】.
 
-https://www.python.org/doc/
+For a comprehensive reference, consult the full PEP 8 document【615368974677617†L119-L176】.
 
-#### 2. Numpy Reference
+## Trending Open‑Source Projects
 
-http://docs.scipy.org/doc/numpy/reference/
+The open‑source community produces a wealth of high‑quality projects.
+Here are some of the Python repositories trending on GitHub today:
 
-#### 3. Pandas Reference
+* **donnemartin/system-design-primer** – Learn how to design large-scale systems; includes Anki flashcards
+* **vinta/awesome-python** – An opinionated list of awesome Python frameworks, libraries and resources
+* **TheAlgorithms/Python** – All algorithms implemented in Python, a great resource for practice
+* **jackfrued/Python-100-Days** – Chinese course: Python — 100 days from beginner to master
+* **yt-dlp/yt-dlp** – A feature-rich command-line program to download audio/video
 
-http://pandas.pydata.org/pandas-docs/stable/
+For further inspiration, check out established resources such as
+**system‑design‑primer** for learning how to design large‑scale
+systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
+libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/Python**
+repository implements many algorithms in Python and is updated
+regularly【836895632859947†L240-L251】.
 
-#### 4. Matplotlib Reference
-
-http://matplotlib.org/contents.html
-
-*Matplotlib is a very effective and deliberate pakcage in data visualization. *
-
-#### 5. NLTK Reference
-
-http://www.nltk.org/
-
-*NLTK is an abbreviation for Natural Language Toolkit which is very powerful and easy-using toolkit in NLP(Natural Language Processing)*
-
-
-Part 2 PUBLIC COURSES
--------------------
-
-#### 1.  [Free: Intro to Programming：Python (Udacity)](https://cn.udacity.com/course/programming-foundations-with-python--ud036/)
-
-*This is a fundanmental Python Course from OOP(Obeject-Oriented Programming) perspective.*
-
-#### 2.  [Free: Intro to Data Analysis (Udacity)](https://cn.udacity.com/course/intro-to-data-analysis--ud170)
-
-*This is a preliminary course for Data Analysis with powerful Python packages such as Numpy/Pandas.*
-
-#### 3.  [Free: Intro to Python for Data Science (DataCamp)](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-
-*Python is a general-purpose programming language that is becoming more and more popular for doing data science...*
-
-
-Part 3 BOOKS 
--------------
-
-#### 1. [Learning Python, 5th Edition](http://pan.baidu.com/s/1miNimZA)
-
-#### 2. [用Python进行自然语言处理](http://pan.baidu.com/s/1jIwNSkY)
-
-#### 3. [Python Data Visualization Cookbook ](http://pan.baidu.com/s/1o8wFH4u)
-
-#### 4. [利用Python进行数据分析](http://pan.baidu.com/s/1gfa9u8N)
-
-
-Part 4 WEBSITES
--------------
-
-#### 1. [Python 3 - Xuefeng Liao (Chinese)](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
-
-*Xuefeng Liao is a technology evanglist esp python programming. All python beginner (esp Chinese) would ever be familiar with him.*
-
-#### 2. [KDnuggets (English)](https://www.kdnuggets.com)
-
-*KDnuggets™ is a leading site on Business Analytics, Big Data, Data Mining, Data Science, and Machine Learning and is edited by Gregory Piatetsky-Shapiro (email to editor1 at kdnuggets) and Matthew Mayo (email to mattmayo at kdnuggets).  via KDnuggets*
-
-#### 3. [FlowingData (English)](http://flowingdata.com/)
-
-*FlowingData explores how statisticians, designers, data scientists, and others use analysis, visualization, and exploration to understand data and ourselves. via FlowingData*
-
-
-Part 5 CONTESTS
--------------
-
-*As the saying goes 'Pratice Makes Perfect !'*
-
-#### 1. [Kaggle (Google)](https://www.kaggle.com)
-
-*Kaggle is a platform for predictive modelling and analytics competitions in which statisticians and data miners compete to produce the best models for predicting and describing the datasets uploaded by companies and users.  via Wikipedia*
-
-#### 2. [Tianchi (Alibaba)](https://tianchi.aliyun.com/)
-
-*Learn , explore and accomplish in Data Science with Tianchi. Be ready to be the next Data Scientist.*
-
-
-Last updated: 2018.02.14
+_Last updated: 2025-08-26_
