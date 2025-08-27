@@ -3,7 +3,7 @@
 Welcome!  This repository collects carefully curated resources to help you
 learn and grow as a Python developer.  Whether you're new to the
 language or looking to deepen your expertise, you'll find tutorials,
-courses, best practice guidelines and inspiring open source projects
+courses, best practice guidelines and inspiring open‑source projects
 here.  The document is regenerated automatically on a daily basis to
 keep the content fresh and relevant.
 
@@ -60,12 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **donnemartin/system-design-primer** – Learn how to design large-scale systems; includes Anki flashcards
-* **vinta/awesome-python** – An opinionated list of awesome Python frameworks, libraries and resources
-* **TheAlgorithms/Python** – All algorithms implemented in Python, a great resource for practice
-* **jackfrued/Python-100-Days** – Chinese course: Python — 100 days from beginner to master
-* **yt-dlp/yt-dlp** – A feature-rich command-line program to download audio/video
-
+* **willccbb/verifiers** – Verifiers for LLM Reinforcement Learning
+* **HKUDS/DeepCode** – "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+* **MODSetter/SurfSense** – Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+* **IBM/mcp-context-forge** – A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
+* **google/adk-python** – An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -73,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-08-26_
+_Last updated: 2025-08-27_
