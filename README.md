@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **QuentinFuxa/WhisperLiveKit** – Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
 * **santinic/audiblez** – Generate audiobooks from e-books
-* **OpenPipe/ART** – Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
-* **willccbb/verifiers** – Verifiers for LLM Reinforcement Learning
-* **comet-ml/opik** – Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
+* **MODSetter/SurfSense** – Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+* **getsentry/sentry** – Developer-first error tracking and performance monitoring
+* **Dao-AILab/flash-attention** – Fast and memory-efficient exact attention
+* **QuentinFuxa/WhisperLiveKit** – Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-08-28_
+_Last updated: 2025-08-29_
