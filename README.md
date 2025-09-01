@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **inventree/InvenTree** – Open Source Inventory Management System
 * **QuentinFuxa/WhisperLiveKit** – Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
 * **laramies/theHarvester** – E-mails, subdomains and names Harvester - OSINT
-* **pathwaycom/pathway** – Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-* **microsoft/qlib** – Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+* **TheAlgorithms/Python** – All Algorithms implemented in Python
+* **paperless-ngx/paperless-ngx** – A community-supported supercharged document management system: scan, index and archive all your documents
+* **All-Hands-AI/OpenHands** – 🙌 OpenHands: Code Less, Make More
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-08-31_
+_Last updated: 2025-09-01_
