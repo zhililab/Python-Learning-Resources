@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **QuentinFuxa/WhisperLiveKit** – Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+* **lllyasviel/Fooocus** – Focus on prompting and generating
 * **laramies/theHarvester** – E-mails, subdomains and names Harvester - OSINT
-* **TheAlgorithms/Python** – All Algorithms implemented in Python
-* **paperless-ngx/paperless-ngx** – A community-supported supercharged document management system: scan, index and archive all your documents
-* **All-Hands-AI/OpenHands** – 🙌 OpenHands: Code Less, Make More
+* **resemble-ai/chatterbox** – SoTA open-source TTS
+* **OpenBMB/MiniCPM-V** – MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-01_
+_Last updated: 2025-09-02_
