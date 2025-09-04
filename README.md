@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **oraios/serena** – A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+* **HKUDS/DeepCode** – "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 * **crewAIInc/crewAI** – Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-* **resemble-ai/chatterbox** – SoTA open-source TTS
-* **sansan0/TrendRadar** – 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
-* **denizsafak/abogen** – Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
-* **laramies/theHarvester** – E-mails, subdomains and names Harvester - OSINT
+* **murtaza-nasir/maestro** – MAESTRO is an AI-powered research application designed to streamline complex research tasks.
+* **QwenLM/Qwen3** – Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-03_
+_Last updated: 2025-09-04_
