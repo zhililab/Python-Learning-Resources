@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **oraios/serena** – A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
-* **HKUDS/DeepCode** – "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 * **crewAIInc/crewAI** – Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-* **murtaza-nasir/maestro** – MAESTRO is an AI-powered research application designed to streamline complex research tasks.
-* **QwenLM/Qwen3** – Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+* **eriklindernoren/ML-From-Scratch** – Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+* **weaviate/elysia** – Python package and backend for the Elysia platform app.
+* **socfortress/Wazuh-Rules** – Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
+* **ansible/ansible** – Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-04_
+_Last updated: 2025-09-05_
