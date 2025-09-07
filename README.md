@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **microsoft/BitNet** – Official inference framework for 1-bit LLMs
-* **emcie-co/parlant** – LLM agents built for control. Designed for real-world use. Deployed in minutes.
 * **coleam00/ottomator-agents** – All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+* **emcie-co/parlant** – LLM agents built for control. Designed for real-world use. Deployed in minutes.
 * **apache/airflow** – Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-* **TobikoData/sqlmesh** – Scalable and efficient data transformation framework - backwards compatible with dbt.
+* **weaviate/elysia** – Python package and backend for the Elysia platform app.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-06_
+_Last updated: 2025-09-07_
