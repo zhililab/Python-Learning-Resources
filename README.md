@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **emcie-co/parlant** – LLM agents built for control. Designed for real-world use. Deployed in minutes.
-* **coleam00/ottomator-agents** – All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
-* **microsoft/BitNet** – Official inference framework for 1-bit LLMs
-* **pathwaycom/pathway** – Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+* **Cinnamon/kotaemon** – An open-source RAG-based tool for chatting with your documents.
 * **Vector-Wangel/XLeRobot** – XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
+* **megadose/toutatis** – Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
+* **pathwaycom/pathway** – Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-08_
+_Last updated: 2025-09-09_
