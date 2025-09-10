@@ -61,9 +61,9 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **emcie-co/parlant** – LLM agents built for control. Designed for real-world use. Deployed in minutes.
-* **Cinnamon/kotaemon** – An open-source RAG-based tool for chatting with your documents.
 * **Vector-Wangel/XLeRobot** – XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
-* **megadose/toutatis** – Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
+* **Cinnamon/kotaemon** – An open-source RAG-based tool for chatting with your documents.
+* **hiroi-sora/Umi-OCR** – OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 * **pathwaycom/pathway** – Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-09_
+_Last updated: 2025-09-10_
