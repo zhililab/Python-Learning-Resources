@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **emcie-co/parlant** – LLM agents built for control. Designed for real-world use. Deployed in minutes.
-* **Vector-Wangel/XLeRobot** – XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
-* **Cinnamon/kotaemon** – An open-source RAG-based tool for chatting with your documents.
-* **hiroi-sora/Umi-OCR** – OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
-* **pathwaycom/pathway** – Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+* **Physical-Intelligence/openpi** – No description provided.
+* **ahujasid/blender-mcp** – No description provided.
+* **HKUDS/AutoAgent** – "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+* **1Panel-dev/MaxKB** – 🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
+* **NEKOparapa/AiNiee** – 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-10_
+_Last updated: 2025-09-11_
