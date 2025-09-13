@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **Physical-Intelligence/openpi** – No description provided.
-* **mxrch/GHunt** – 🕵️‍♂️ Offensive Google framework.
-* **agno-agi/agno** – High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+* **sentient-agi/ROMA** – Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
+* **NVIDIA/garak** – the LLM vulnerability scanner
 * **Azure/azure-sdk-for-python** – This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
-* **commaai/opendbc** – a Python API for your car
+* **1Panel-dev/MaxKB** – 🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-12_
+_Last updated: 2025-09-13_
