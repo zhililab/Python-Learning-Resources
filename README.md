@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **microsoft/markitdown** – Python tool for converting files and office documents to Markdown.
+* **ml-explore/mlx-lm** – Run LLMs with MLX
+* **dataease/SQLBot** – 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
 * **virattt/ai-hedge-fund** – An AI Hedge Fund Team
 * **ccxt/ccxt** – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
-* **unclecode/crawl4ai** – 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-* **ml-explore/mlx-lm** – Run LLMs with MLX
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-16_
+_Last updated: 2025-09-17_
