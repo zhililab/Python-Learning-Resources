@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **microsoft/markitdown** – Python tool for converting files and office documents to Markdown.
-* **dataease/SQLBot** – 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-* **google-research/timesfm** – TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-* **virattt/ai-hedge-fund** – An AI Hedge Fund Team
+* **TheAlgorithms/Python** – All Algorithms implemented in Python
 * **Alibaba-NLP/DeepResearch** – Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
+* **dataease/SQLBot** – 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+* **PaddlePaddle/PaddleOCR** – Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-18_
+_Last updated: 2025-09-19_
