@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **Alibaba-NLP/DeepResearch** – Tongyi Deep Research, the Leading Open-source Deep Research Agent
+* **facebookresearch/detectron2** – Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 * **microsoft/markitdown** – Python tool for converting files and office documents to Markdown.
-* **TheAlgorithms/Python** – All Algorithms implemented in Python
-* **Alibaba-NLP/DeepResearch** – Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
-* **dataease/SQLBot** – 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-* **PaddlePaddle/PaddleOCR** – Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+* **google-research/timesfm** – TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+* **laude-institute/terminal-bench** – A benchmark for LLMs on complicated tasks in the terminal
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-19_
+_Last updated: 2025-09-20_
