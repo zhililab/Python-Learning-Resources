@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **Alibaba-NLP/DeepResearch** – Tongyi Deep Research, the Leading Open-source Deep Research Agent
-* **facebookresearch/detectron2** – Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
-* **microsoft/markitdown** – Python tool for converting files and office documents to Markdown.
-* **google-research/timesfm** – TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-* **laude-institute/terminal-bench** – A benchmark for LLMs on complicated tasks in the terminal
+* **OpenMind/OM1** – Modular AI runtime for robots
+* **9001/copyparty** – Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+* **knownsec/aipyapp** – AI-Powered Python & Python-Powered AI (Python-Use)
+* **unslothai/unsloth** – Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-20_
+_Last updated: 2025-09-21_
