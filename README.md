@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **Alibaba-NLP/DeepResearch** – Tongyi Deep Research, the Leading Open-source Deep Research Agent
-* **WECENG/ticket-purchase** – 大麦自动抢票，支持人员、城市、日期场次、价格选择
-* **HKUDS/AI-Researcher** – [NeurIPS2025] "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
+* **ytdl-org/youtube-dl** – Command-line program to download videos from YouTube.com and other video sites
+* **AUTOMATIC1111/stable-diffusion-webui** – Stable Diffusion web UI
 * **EbookFoundation/free-programming-books** – 📚 Freely available programming books
-* **mindsdb/mindsdb** – AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need
+* **lllyasviel/Fooocus** – Focus on prompting and generating
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-22_
+_Last updated: 2025-09-23_
