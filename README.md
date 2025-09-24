@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **Alibaba-NLP/DeepResearch** – Tongyi Deep Research, the Leading Open-source Deep Research Agent
-* **ytdl-org/youtube-dl** – Command-line program to download videos from YouTube.com and other video sites
-* **AUTOMATIC1111/stable-diffusion-webui** – Stable Diffusion web UI
 * **EbookFoundation/free-programming-books** – 📚 Freely available programming books
-* **lllyasviel/Fooocus** – Focus on prompting and generating
+* **WECENG/ticket-purchase** – 大麦自动抢票，支持人员、城市、日期场次、价格选择
+* **HKUDS/AI-Researcher** – [NeurIPS2025] "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
+* **Kludex/uvicorn** – An ASGI web server, for Python. 🦄
+* **ytdl-org/youtube-dl** – Command-line program to download videos from YouTube.com and other video sites
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-23_
+_Last updated: 2025-09-24_
