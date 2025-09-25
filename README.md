@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **EbookFoundation/free-programming-books** – 📚 Freely available programming books
-* **WECENG/ticket-purchase** – 大麦自动抢票，支持人员、城市、日期场次、价格选择
-* **HKUDS/AI-Researcher** – [NeurIPS2025] "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
-* **Kludex/uvicorn** – An ASGI web server, for Python. 🦄
-* **ytdl-org/youtube-dl** – Command-line program to download videos from YouTube.com and other video sites
+* **HKUDS/RAG-Anything** – "RAG-Anything: All-in-One RAG Framework"
+* **ultralytics/ultralytics** – Ultralytics YOLO 🚀
+* **freqtrade/freqtrade** – Free, open source crypto trading bot
+* **bytedance/Dolphin** – The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
+* **aliasrobotics/cai** – Cybersecurity AI (CAI), the framework for AI Security
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-24_
+_Last updated: 2025-09-25_
