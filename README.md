@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **HKUDS/RAG-Anything** – "RAG-Anything: All-in-One RAG Framework"
 * **onyx-dot-app/onyx** – Open Source AI Platform - AI Chat with advanced features that works with every LLM
-* **bytedance/Dolphin** – The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
-* **exo-explore/exo** – Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-* **ultralytics/ultralytics** – Ultralytics YOLO 🚀
+* **HKUDS/RAG-Anything** – "RAG-Anything: All-in-One RAG Framework"
+* **harry0703/MoneyPrinterTurbo** – 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+* **frappe/erpnext** – Free and Open Source Enterprise Resource Planning (ERP)
+* **Olow304/memvid** – Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-27_
+_Last updated: 2025-09-28_
