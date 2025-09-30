@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **commaai/openpilot** – openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-* **Shubhamsaboo/awesome-llm-apps** – Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-* **microsoft/qlib** – Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
 * **harry0703/MoneyPrinterTurbo** – 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+* **commaai/openpilot** – openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 * **frappe/erpnext** – Free and Open Source Enterprise Resource Planning (ERP)
+* **onyx-dot-app/onyx** – Open Source AI Platform - AI Chat with advanced features that works with every LLM
+* **jsvine/pdfplumber** – Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-09-30_
