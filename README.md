@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **harry0703/MoneyPrinterTurbo** – 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+* **fastapi/fastapi** – FastAPI framework, high performance, easy to learn, fast to code, ready for production
 * **commaai/openpilot** – openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-* **frappe/erpnext** – Free and Open Source Enterprise Resource Planning (ERP)
-* **onyx-dot-app/onyx** – Open Source AI Platform - AI Chat with advanced features that works with every LLM
-* **jsvine/pdfplumber** – Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
+* **anthropics/claude-agent-sdk-python** – No description provided.
+* **bregman-arie/devops-exercises** – Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-09-30_
+_Last updated: 2025-10-01_
