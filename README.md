@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **hsliuping/TradingAgents-CN** – 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 * **google/tunix** – A JAX-native LLM Post-Training Library
-* **pathwaycom/pathway** – Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-* **anthropics/claude-agent-sdk-python** – No description provided.
-* **Lightricks/LTX-Video** – Official repository for LTX-Video
-* **harry0703/MoneyPrinterTurbo** – 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+* **airweave-ai/airweave** – Airweave lets agents search any app
+* **emcie-co/parlant** – LLM agents built for control. Designed for real-world use. Deployed in minutes.
+* **microsoft/agent-framework** – A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-03_
+_Last updated: 2025-10-04_
