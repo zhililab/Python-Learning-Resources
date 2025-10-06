@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **google/tunix** – A JAX-native LLM Post-Training Library
-* **simular-ai/Agent-S** – Agent S: an open agentic framework that uses computers like a human
 * **microsoft/BitNet** – Official inference framework for 1-bit LLMs
+* **comfyanonymous/ComfyUI** – The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+* **hsliuping/TradingAgents-CN** – 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 * **pathwaycom/pathway** – Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-* **dbt-labs/dbt-core** – dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+* **xtekky/gpt4free** – The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-06_
