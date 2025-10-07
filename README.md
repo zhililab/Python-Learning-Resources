@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **BeehiveInnovations/zen-mcp-server** – The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 * **microsoft/BitNet** – Official inference framework for 1-bit LLMs
-* **comfyanonymous/ComfyUI** – The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-* **hsliuping/TradingAgents-CN** – 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+* **dgtlmoon/changedetection.io** – Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 * **pathwaycom/pathway** – Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-* **xtekky/gpt4free** – The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+* **TheAlgorithms/Python** – All Algorithms implemented in Python
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-07_
