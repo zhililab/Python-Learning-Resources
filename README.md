@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **microsoft/RD-Agent** – Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
 * **MODSetter/SurfSense** – Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-* **WECENG/ticket-purchase** – 大麦自动抢票，支持人员、城市、日期场次、价格选择
-* **bytedance/deer-flow** – DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
-* **vllm-project/vllm** – A high-throughput and memory-efficient inference and serving engine for LLMs
+* **dataease/SQLBot** – 🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+* **Genesis-Embodied-AI/Genesis** – A generative world for general-purpose robotics & embodied AI learning.
+* **opendatalab/MinerU** – Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+* **sapientinc/HRM** – Hierarchical Reasoning Model Official Release
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-12_
