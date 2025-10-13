@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **MODSetter/SurfSense** – Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-* **dataease/SQLBot** – 🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-* **Genesis-Embodied-AI/Genesis** – A generative world for general-purpose robotics & embodied AI learning.
+* **WECENG/ticket-purchase** – 大麦自动抢票，支持人员、城市、日期场次、价格选择
+* **huggingface/diffusers** – 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+* **Klavis-AI/klavis** – Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale
 * **opendatalab/MinerU** – Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
-* **sapientinc/HRM** – Hierarchical Reasoning Model Official Release
+* **LuckyOne7777/ChatGPT-Micro-Cap-Experiment** – This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-12_
+_Last updated: 2025-10-13_
