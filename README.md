@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **coleam00/Archon** – Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+* **opendatalab/MinerU** – Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 * **Klavis-AI/klavis** – Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale
+* **1Panel-dev/MaxKB** – 🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
 * **public-apis/public-apis** – A collective list of free APIs
-* **yt-dlp/yt-dlp** – A feature-rich command-line audio/video downloader
-* **harvard-edge/cs249r_book** – Introduction to Machine Learning Systems
+* **KellerJordan/modded-nanogpt** – NanoGPT (124M) in 3 minutes
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-15_
