@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **opendatalab/MinerU** – Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
-* **Klavis-AI/klavis** – Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale
-* **1Panel-dev/MaxKB** – 🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
-* **public-apis/public-apis** – A collective list of free APIs
-* **KellerJordan/modded-nanogpt** – NanoGPT (124M) in 3 minutes
+* **jingyaogong/minimind** – 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+* **karpathy/nanoGPT** – The simplest, fastest repository for training/finetuning medium-sized GPTs.
+* **ChristianLempa/boilerplates** – This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
+* **TobikoData/sqlmesh** – Scalable and efficient data transformation framework - backwards compatible with dbt.
+* **coleam00/Archon** – Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-15_
+_Last updated: 2025-10-16_
