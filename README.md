@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **ChristianLempa/boilerplates** – This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
-* **karpathy/nanoGPT** – The simplest, fastest repository for training/finetuning medium-sized GPTs.
-* **reflex-dev/reflex** – 🕸️ Web apps in pure Python 🐍
-* **KellerJordan/modded-nanogpt** – NanoGPT (124M) in 3 minutes
 * **jingyaogong/minimind** – 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+* **reflex-dev/reflex** – 🕸️ Web apps in pure Python 🐍
+* **lfnovo/open-notebook** – An Open Source implementation of Notebook LM with more flexibility and features
+* **stamparm/maltrail** – Malicious traffic detection system
+* **PaddlePaddle/PaddleOCR** – Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-17_
+_Last updated: 2025-10-18_
