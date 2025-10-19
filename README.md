@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **jingyaogong/minimind** – 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-* **reflex-dev/reflex** – 🕸️ Web apps in pure Python 🐍
-* **lfnovo/open-notebook** – An Open Source implementation of Notebook LM with more flexibility and features
-* **stamparm/maltrail** – Malicious traffic detection system
+* **pathwaycom/pathway** – Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 * **PaddlePaddle/PaddleOCR** – Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+* **DrewThomasson/ebook2audiobook** – Generate audiobooks from e-books, voice cloning & 1107+ languages!
+* **TheAlgorithms/Python** – All Algorithms implemented in Python
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-10-19_
