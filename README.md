@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **DrewThomasson/ebook2audiobook** – Generate audiobooks from e-books, voice cloning & 1107+ languages!
-* **huggingface/lerobot** – 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-* **TheAlgorithms/Python** – All Algorithms implemented in Python
 * **Skyvern-AI/skyvern** – Automate browser-based workflows with LLMs and Computer Vision
 * **PaddlePaddle/PaddleOCR** – Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+* **EbookFoundation/free-programming-books** – 📚 Freely available programming books
+* **harvard-edge/cs249r_book** – Introduction to Machine Learning Systems
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-21_
+_Last updated: 2025-10-22_
