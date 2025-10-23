@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **emcie-co/parlant** – LLM agents built for control. Designed for real-world use. Deployed in minutes.
+* **guofei9987/blind_watermark** – Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
+* **fishaudio/fish-speech** – SOTA Open Source TTS
+* **rossant/awesome-math** – A curated list of awesome mathematics resources
 * **DrewThomasson/ebook2audiobook** – Generate audiobooks from e-books, voice cloning & 1107+ languages!
-* **Skyvern-AI/skyvern** – Automate browser-based workflows with LLMs and Computer Vision
-* **PaddlePaddle/PaddleOCR** – Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-* **EbookFoundation/free-programming-books** – 📚 Freely available programming books
-* **harvard-edge/cs249r_book** – Introduction to Machine Learning Systems
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-22_
+_Last updated: 2025-10-23_
