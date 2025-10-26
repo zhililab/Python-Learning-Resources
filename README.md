@@ -61,9 +61,9 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **guofei9987/blind_watermark** – Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
-* **emcie-co/parlant** – LLM agents built for control. Designed for real-world use. Deployed in minutes.
 * **paperless-ngx/paperless-ngx** – A community-supported supercharged document management system: scan, index and archive all your documents
-* **Lightricks/LTX-Video** – Official repository for LTX-Video
+* **public-apis/public-apis** – A collective list of free APIs
+* **yt-dlp/yt-dlp** – A feature-rich command-line audio/video downloader
 * **OpenMind/OM1** – Modular AI runtime for robots
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-25_
+_Last updated: 2025-10-26_
