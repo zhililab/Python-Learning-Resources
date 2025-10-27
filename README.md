@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **guofei9987/blind_watermark** – Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
-* **paperless-ngx/paperless-ngx** – A community-supported supercharged document management system: scan, index and archive all your documents
+* **yeongpin/cursor-free-vip** – [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+* **Shubhamsaboo/awesome-llm-apps** – Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+* **microsoft/agent-lightning** – The absolute trainer to light up AI agents.
 * **public-apis/public-apis** – A collective list of free APIs
-* **yt-dlp/yt-dlp** – A feature-rich command-line audio/video downloader
-* **OpenMind/OM1** – Modular AI runtime for robots
+* **donnemartin/system-design-primer** – Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-26_
+_Last updated: 2025-10-27_
