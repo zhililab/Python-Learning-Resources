@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **allenai/olmocr** – Toolkit for linearizing PDFs for LLM datasets/training
-* **Project-MONAI/MONAI** – AI Toolkit for Healthcare Imaging
-* **mem0ai/mem0** – Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
-* **iam-veeramalla/aws-devops-zero-to-hero** – AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
 * **microsoft/agent-lightning** – The absolute trainer to light up AI agents.
+* **666ghj/BettaFish** – 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+* **hiyouga/LLaMA-Factory** – Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+* **google/adk-samples** – A collection of sample agents built with Agent Development (ADK)
+* **langchain-ai/deepagents** – No description provided.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-10-31_
+_Last updated: 2025-11-01_
