@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **suitenumerique/docs** – A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
-* **hacksider/Deep-Live-Cam** – real time face swap and one-click video deepfake with only a single image
-* **hanxi/xiaomusic** – 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 * **666ghj/BettaFish** – 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-* **aliasrobotics/cai** – Cybersecurity AI (CAI), the framework for AI Security
+* **microsoft/agent-lightning** – The absolute trainer to light up AI agents.
+* **HKUDS/DeepCode** – "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+* **GeeeekExplorer/nano-vllm** – Nano vLLM
+* **moondevonyt/moon-dev-ai-agents** – autonomous ai agents for trading in python
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-11-03_
