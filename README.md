@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **666ghj/BettaFish** – 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 * **Skyvern-AI/skyvern** – Automate browser based workflows with AI
-* **HKUDS/DeepCode** – "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-* **VectifyAI/PageIndex** – 📑 PageIndex: Document Index for Reasoning-based RAG
+* **localstack/localstack** – 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 * **coleam00/ottomator-agents** – All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+* **topoteretes/cognee** – Memory for AI Agents in 6 lines of code
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-07_
