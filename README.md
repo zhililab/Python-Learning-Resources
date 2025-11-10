@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **usestrix/strix** – ✨ Open-source AI hackers for your apps 👨🏻‍💻
-* **localstack/localstack** – 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-* **Shubhamsaboo/awesome-llm-apps** – Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-* **666ghj/BettaFish** – 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+* **thinking-machines-lab/tinker-cookbook** – Post-training with Tinker
 * **airweave-ai/airweave** – Context retrieval for AI agents across apps and databases
+* **AUTOMATIC1111/stable-diffusion-webui** – Stable Diffusion web UI
+* **Shubhamsaboo/awesome-llm-apps** – Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-11-09_
+_Last updated: 2025-11-10_
