@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **usestrix/strix** – ✨ Open-source AI hackers for your apps 👨🏻‍💻
 * **thinking-machines-lab/tinker-cookbook** – Post-training with Tinker
-* **airweave-ai/airweave** – Context retrieval for AI agents across apps and databases
-* **AUTOMATIC1111/stable-diffusion-webui** – Stable Diffusion web UI
-* **Shubhamsaboo/awesome-llm-apps** – Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+* **lzhoang2801/OpCore-Simplify** – A tool designed to simplify the creation of OpenCore EFI
+* **microsoft/call-center-ai** – Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
+* **Zie619/n8n-workflows** – all of the workflows of n8n i could find (also from the site itself)
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-11-10_
+_Last updated: 2025-11-11_
