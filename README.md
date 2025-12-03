@@ -64,7 +64,7 @@ Here are some of the Python repositories trending on GitHub today:
 * **yeongpin/cursor-free-vip** – [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 * **HKUDS/LightRAG** – [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 * **volcengine/verl** – verl: Volcano Engine Reinforcement Learning for LLMs
-* **GibsonAI/Memori** – Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+* **MemoriLabs/Memori** – Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-12-02_
+_Last updated: 2025-12-03_
