@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **trustedsec/social-engineer-toolkit** – The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
-* **wshobson/agents** – Intelligent automation and multi-agent orchestration for Claude Code
+* **microsoft/VibeVoice** – Open-Source Frontier Voice AI
+* **fastapi/fastapi** – FastAPI framework, high performance, easy to learn, fast to code, ready for production
 * **streamlit/streamlit** – Streamlit — A faster way to build and share data apps.
-* **getzep/graphiti** – Build Real-Time Knowledge Graphs for AI Agents
-* **yeongpin/cursor-free-vip** – [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+* **microsoft/markitdown** – Python tool for converting files and office documents to Markdown.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-12-05_
+_Last updated: 2025-12-06_
