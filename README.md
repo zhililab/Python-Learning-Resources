@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **trustedsec/social-engineer-toolkit** – The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 * **microsoft/VibeVoice** – Open-Source Frontier Voice AI
-* **fastapi/fastapi** – FastAPI framework, high performance, easy to learn, fast to code, ready for production
-* **streamlit/streamlit** – Streamlit — A faster way to build and share data apps.
-* **microsoft/markitdown** – Python tool for converting files and office documents to Markdown.
+* **RosettaCommons/foundry** – Central repository for biomolecular foundation models with shared trainers and pipeline components
+* **sapientinc/HRM** – Hierarchical Reasoning Model Official Release
+* **anthropics/claude-quickstarts** – A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+* **zhu-xlab/GlobalBuildingAtlas** – No description provided.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-12-06_
+_Last updated: 2025-12-07_
