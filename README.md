@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **microsoft/VibeVoice** – Open-Source Frontier Voice AI
-* **RosettaCommons/foundry** – Central repository for biomolecular foundation models with shared trainers and pipeline components
-* **sapientinc/HRM** – Hierarchical Reasoning Model Official Release
+* **NVIDIA/cutile-python** – cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
 * **anthropics/claude-quickstarts** – A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-* **zhu-xlab/GlobalBuildingAtlas** – No description provided.
+* **BeehiveInnovations/pal-mcp-server** – The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+* **yt-dlp/yt-dlp** – A feature-rich command-line audio/video downloader
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-08_
