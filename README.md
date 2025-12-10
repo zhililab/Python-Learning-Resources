@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **microsoft/VibeVoice** – Open-Source Frontier Voice AI
-* **anthropics/claude-quickstarts** – A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+* **NVIDIA/cutile-python** – cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+* **google/adk-samples** – A collection of sample agents built with Agent Development Kit (ADK)
+* **zhu-xlab/GlobalBuildingAtlas** – No description provided.
 * **666ghj/BettaFish** – 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-* **yt-dlp/yt-dlp** – A feature-rich command-line audio/video downloader
-* **Comfy-Org/ComfyUI-Manager** – ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-10_
