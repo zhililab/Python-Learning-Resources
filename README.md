@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **datawhalechina/hello-agents** – 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-* **GoogleCloudPlatform/agent-starter-pack** – Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
-* **infiniflow/ragflow** – RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-* **521xueweihan/HelloGitHub** – 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 * **mindsdb/mindsdb** – Federated query engine for AI - The only MCP Server you'll ever need
+* **spipm/Depixelization_poc** – Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
+* **datawhalechina/hello-agents** – 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+* **karpathy/nanoGPT** – The simplest, fastest repository for training/finetuning medium-sized GPTs.
+* **GoogleCloudPlatform/agent-starter-pack** – Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-12-13_
+_Last updated: 2025-12-14_
