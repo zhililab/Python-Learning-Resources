@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **HKUDS/DeepCode** – "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 * **virattt/ai-hedge-fund** – An AI Hedge Fund Team
-* **theOehrly/Fast-F1** – FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
-* **public-apis/public-apis** – A collective list of free APIs
 * **Asabeneh/30-Days-Of-Python** – 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+* **HKUDS/DeepCode** – "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+* **public-apis/public-apis** – A collective list of free APIs
+* **Mebus/cupp** – Common User Passwords Profiler (CUPP)
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-12-16_
+_Last updated: 2025-12-17_
