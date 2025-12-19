@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **resemble-ai/chatterbox** – SoTA open-source TTS
 * **virattt/ai-hedge-fund** – An AI Hedge Fund Team
-* **Free-TV/IPTV** – M3U Playlist for free TV channels
-* **public-apis/public-apis** – A collective list of free APIs
-* **NVIDIA-NeMo/Gym** – Build RL environments for LLM training
+* **astral-sh/ty** – An extremely fast Python type checker and language server, written in Rust.
+* **letta-ai/letta** – Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
+* **resemble-ai/chatterbox** – SoTA open-source TTS
+* **FunAudioLLM/CosyVoice** – Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-12-18_
+_Last updated: 2025-12-19_
