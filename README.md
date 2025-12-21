@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **NVIDIA-NeMo/Gym** – Build RL environments for LLM training
-* **GreyDGL/PentestGPT** – A GPT-empowered penetration testing tool
 * **exo-explore/exo** – Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+* **lintsinghua/DeepAudit** – DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。
 * **swisskyrepo/PayloadsAllTheThings** – A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 * **sgl-project/mini-sglang** – No description provided.
+* **GreyDGL/PentestGPT** – A GPT-empowered penetration testing tool
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-21_
