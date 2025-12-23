@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **exo-explore/exo** – Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-* **GreyDGL/PentestGPT** – A GPT-empowered penetration testing tool
 * **swisskyrepo/PayloadsAllTheThings** – A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-* **sgl-project/mini-sglang** – No description provided.
-* **pollen-robotics/reachy_mini** – Reachy Mini's SDK
+* **GreyDGL/PentestGPT** – A GPT-empowered penetration testing tool
+* **anthropics/skills** – Public repository for Agent Skills
+* **rendercv/rendercv** – Typst-based CV/resume generator for academics and engineers
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
