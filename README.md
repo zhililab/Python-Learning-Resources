@@ -61,9 +61,9 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **rendercv/rendercv** – Typst-based CV/resume generator for academics and engineers
-* **exo-explore/exo** – Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 * **google/langextract** – A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-* **yichuan-w/LEANN** – RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+* **vllm-project/vllm-omni** – A framework for efficient model inference with omni-modality models
+* **davila7/claude-code-templates** – CLI tool for configuring and monitoring Claude Code
 * **safety-research/bloom** – bloom - evaluate any behavior immediately  🌸🌱
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-25_
