@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **rendercv/rendercv** – Typst-based CV/resume generator for academics and engineers
-* **google/langextract** – A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+* **rendercv/rendercv** – CV/resume generator for academics and engineers, YAML to PDF
+* **xerrors/Yuxi-Know** – 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+* **yichuan-w/LEANN** – RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+* **resemble-ai/chatterbox** – SoTA open-source TTS
 * **vllm-project/vllm-omni** – A framework for efficient model inference with omni-modality models
-* **davila7/claude-code-templates** – CLI tool for configuring and monitoring Claude Code
-* **safety-research/bloom** – bloom - evaluate any behavior immediately  🌸🌱
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2025-12-25_
+_Last updated: 2025-12-26_
