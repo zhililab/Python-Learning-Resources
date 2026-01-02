@@ -60,10 +60,10 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **google-gemini/computer-use-preview** – No description provided.
-* **timescale/pg-aiguide** – MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
-* **sansan0/TrendRadar** – 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
-* **resemble-ai/chatterbox** – SoTA open-source TTS
+* **Polymarket/agents** – Trade autonomously on Polymarket using AI Agents
+* **yichuan-w/LEANN** – RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+* **livekit/agents** – A powerful framework for building realtime voice AI agents 🤖🎙️📹
+* **anthropics/skills** – Public repository for Agent Skills
 * **alexta69/metube** – Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-01-02_
