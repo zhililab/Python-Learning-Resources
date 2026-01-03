@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **Polymarket/agents** – Trade autonomously on Polymarket using AI Agents
+* **rossant/awesome-math** – A curated list of awesome mathematics resources
+* **SYSTRAN/faster-whisper** – Faster Whisper transcription with CTranslate2
 * **yichuan-w/LEANN** – RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
-* **livekit/agents** – A powerful framework for building realtime voice AI agents 🤖🎙️📹
-* **anthropics/skills** – Public repository for Agent Skills
-* **alexta69/metube** – Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+* **Bambu-Research-Group/RFID-Tag-Guide** – Instructions on how to read out the bambulab nfc tags
+* **google-gemini/computer-use-preview** – No description provided.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-01-02_
+_Last updated: 2026-01-03_
