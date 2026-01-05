@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **pathwaycom/pathway** – Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 * **OpenBB-finance/OpenBB** – Financial data platform for analysts, quants and AI agents.
-* **beancount/beancount** – Beancount: Double-Entry Accounting from Text Files.
-* **MustardChef/WSABuilds** – Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-* **rossant/awesome-math** – A curated list of awesome mathematics resources
+* **virattt/ai-hedge-fund** – An AI Hedge Fund Team
+* **python/cpython** – The Python programming language
+* **microsoft/VibeVoice** – Open-Source Frontier Voice AI
+* **ladaapp/lada** – Restore videos with pixelated/mosaic regions
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-01-05_
