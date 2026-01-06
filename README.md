@@ -64,7 +64,7 @@ Here are some of the Python repositories trending on GitHub today:
 * **virattt/ai-hedge-fund** – An AI Hedge Fund Team
 * **python/cpython** – The Python programming language
 * **microsoft/VibeVoice** – Open-Source Frontier Voice AI
-* **ladaapp/lada** – Restore videos with pixelated/mosaic regions
+* **3b1b/manim** – Animation engine for explanatory math videos
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
