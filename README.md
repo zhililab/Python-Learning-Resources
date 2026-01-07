@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **OpenBB-finance/OpenBB** – Financial data platform for analysts, quants and AI agents.
+* **microsoft/BitNet** – Official inference framework for 1-bit LLMs
+* **LuckyOne7777/ChatGPT-Micro-Cap-Experiment** – This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 * **virattt/ai-hedge-fund** – An AI Hedge Fund Team
-* **python/cpython** – The Python programming language
-* **microsoft/VibeVoice** – Open-Source Frontier Voice AI
-* **3b1b/manim** – Animation engine for explanatory math videos
+* **docling-project/docling** – Get your documents ready for gen AI
+* **ahujasid/blender-mcp** – No description provided.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-01-07_
