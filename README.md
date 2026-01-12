@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **NevaMind-AI/memU** – Memory infrastructure for LLMs and AI agents
-* **MiroMindAI/MiroThinker** – MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
+* **davila7/claude-code-templates** – CLI tool for configuring and monitoring Claude Code
+* **gyoridavid/ai_agents_az** – No description provided.
+* **polarsource/polar** – Turn your software into a business.
+* **allenai/olmocr** – Toolkit for linearizing PDFs for LLM datasets/training
 * **hacksider/Deep-Live-Cam** – real time face swap and one-click video deepfake with only a single image
-* **PostHog/posthog** – 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
-* **HKUDS/VideoRAG** – [KDD'2026] "VideoRAG: Chat with Your Videos"
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-01-11_
+_Last updated: 2026-01-12_
