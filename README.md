@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **NanmiCoder/MediaCrawler** – 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-* **hacksider/Deep-Live-Cam** – real time face swap and one-click video deepfake with only a single image
-* **OpenBMB/ChatDev** – ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+* **icloud-photos-downloader/icloud_photos_downloader** – A command-line tool to download photos from iCloud
+* **chidiwilliams/buzz** – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 * **Free-TV/IPTV** – M3U Playlist for free TV channels
-* **gyoridavid/ai_agents_az** – No description provided.
+* **google-agentic-commerce/AP2** – Building a Secure and Interoperable Future for AI-Driven Payments.
+* **davila7/claude-code-templates** – CLI tool for configuring and monitoring Claude Code
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-01-13_
+_Last updated: 2026-01-14_
