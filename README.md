@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **google/langextract** – A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 * **ultralytics/ultralytics** – Ultralytics YOLO 🚀
-* **skypilot-org/skypilot** – Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem).
-* **airbytehq/airbyte** – The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
-* **chidiwilliams/buzz** – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
-* **intuitem/ciso-assistant-community** – CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, Privacy, and Reporting. It supports 100+ global frameworks with automatic control mapping, including ISO 27001, NIST CSF, SOC 2, CIS, PCI DSS, NIS2, DORA, GDPR, HIPAA, CMMC, and more.
+* **neuphonic/neutts** – On-device TTS model by Neuphonic
+* **anthropics/skills** – Public repository for Agent Skills
+* **prowler-cloud/prowler** – Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-01-16_
+_Last updated: 2026-01-17_
