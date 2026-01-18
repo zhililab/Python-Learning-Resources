@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **google/langextract** – A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-* **ultralytics/ultralytics** – Ultralytics YOLO 🚀
-* **neuphonic/neutts** – On-device TTS model by Neuphonic
+* **OpenBMB/VoxCPM** – VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
+* **sansan0/TrendRadar** – 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
+* **paperless-ngx/paperless-ngx** – A community-supported supercharged document management system: scan, index and archive all your documents
 * **anthropics/skills** – Public repository for Agent Skills
-* **prowler-cloud/prowler** – Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-01-17_
+_Last updated: 2026-01-18_
