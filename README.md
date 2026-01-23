@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **EveryInc/compound-engineering-plugin** – Official Claude Code compound engineering plugin
 * **xai-org/grok-1** – Grok open release
 * **microsoft/agent-lightning** – The absolute trainer to light up AI agents.
-* **VectifyAI/PageIndex** – 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-* **ahujasid/blender-mcp** – No description provided.
+* **yusufkaraaslan/Skill_Seekers** – Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+* **Free-TV/IPTV** – M3U Playlist for free TV channels
+* **anthropics/skills** – Public repository for Agent Skills
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-01-23_
