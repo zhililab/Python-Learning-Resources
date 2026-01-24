@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **xai-org/grok-1** – Grok open release
-* **microsoft/agent-lightning** – The absolute trainer to light up AI agents.
-* **yusufkaraaslan/Skill_Seekers** – Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-* **Free-TV/IPTV** – M3U Playlist for free TV channels
-* **anthropics/skills** – Public repository for Agent Skills
+* **microsoft/VibeVoice** – Open-Source Frontier Voice AI
+* **browser-use/browser-use** – 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+* **Asabeneh/30-Days-Of-Python** – The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+* **OpenBMB/UltraRAG** – UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+* **KellerJordan/modded-nanogpt** – NanoGPT (124M) in 2 minutes
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-01-23_
+_Last updated: 2026-01-24_
