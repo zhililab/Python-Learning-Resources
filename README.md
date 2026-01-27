@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **Blaizzy/mlx-audio** – A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 * **VectifyAI/PageIndex** – 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-* **OpenBMB/UltraRAG** – UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+* **business-science/ai-data-science-team** – An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
 * **microsoft/VibeVoice** – Open-Source Frontier Voice AI
-* **HKUDS/ViMax** – "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+* **OpenBMB/UltraRAG** – UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-01-26_
+_Last updated: 2026-01-27_
