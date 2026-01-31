@@ -61,7 +61,7 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **MoonshotAI/kimi-cli** – Kimi Code CLI is your next CLI agent.
-* **NevaMind-AI/memU** – Memory for 24/7 proactive agents like moltbot (clawdbot).
+* **NevaMind-AI/memU** – Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 * **Shubhamsaboo/awesome-llm-apps** – Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 * **OpenPipe/ART** – Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
 * **ostris/ai-toolkit** – The ultimate training toolkit for finetuning diffusion models
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-01-30_
+_Last updated: 2026-01-31_
