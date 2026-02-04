@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **OpenBMB/ChatDev** – ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
-* **VectifyAI/PageIndex** – 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+* **masoncl/review-prompts** – AI review prompts
+* **openai/skills** – Skills Catalog for Codex
 * **karpathy/nanochat** – The best ChatGPT that $100 can buy.
 * **kovidgoyal/calibre** – The official source code repository for the calibre ebook manager
-* **microsoft/agent-lightning** – The absolute trainer to light up AI agents.
+* **OpenBMB/ChatDev** – ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-03_
+_Last updated: 2026-02-04_
