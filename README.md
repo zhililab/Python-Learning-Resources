@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **masoncl/review-prompts** – AI review prompts
 * **openai/skills** – Skills Catalog for Codex
-* **karpathy/nanochat** – The best ChatGPT that $100 can buy.
-* **kovidgoyal/calibre** – The official source code repository for the calibre ebook manager
+* **disler/claude-code-hooks-mastery** – Master Claude Code Hooks
 * **OpenBMB/ChatDev** – ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+* **microsoft/qlib** – Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+* **karpathy/nanochat** – The best ChatGPT that $100 can buy.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-04_
+_Last updated: 2026-02-05_
