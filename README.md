@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **openai/skills** – Skills Catalog for Codex
-* **disler/claude-code-hooks-mastery** – Master Claude Code Hooks
-* **OpenBMB/ChatDev** – ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
-* **microsoft/qlib** – Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-* **karpathy/nanochat** – The best ChatGPT that $100 can buy.
+* **topoteretes/cognee** – Memory for AI Agents in 6 lines of code
+* **chenyme/grok2api** – 基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。
+* **anthropics/skills** – Public repository for Agent Skills
+* **GH05TCREW/pentestagent** – PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-05_
+_Last updated: 2026-02-06_
