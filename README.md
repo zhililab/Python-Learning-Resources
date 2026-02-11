@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **google/langextract** – A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 * **hsliuping/TradingAgents-CN** – 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-* **public-apis/public-apis** – A collective list of free APIs
 * **Shubhamsaboo/awesome-llm-apps** – Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-* **openai/skills** – Skills Catalog for Codex
-* **DrewThomasson/ebook2audiobook** – Generate audiobooks from e-books, voice cloning & 1158+ languages!
+* **cheahjs/free-llm-api-resources** – A list of free LLM inference resources accessible via API.
+* **Jeffallan/claude-skills** – 65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-10_
+_Last updated: 2026-02-11_
