@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **google/langextract** – A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-* **Shubhamsaboo/awesome-llm-apps** – Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-* **unslothai/unsloth** – Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
-* **Jeffallan/claude-skills** – 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 * **cheahjs/free-llm-api-resources** – A list of free LLM inference resources accessible via API.
+* **THUDM/slime** – slime is an LLM post-training framework for RL Scaling.
+* **karpathy/nanochat** – The best ChatGPT that $100 can buy.
+* **K-Dense-AI/claude-scientific-skills** – A set of ready to use scientific skills for Claude
+* **coleam00/context-engineering-intro** – Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-13_
+_Last updated: 2026-02-14_
