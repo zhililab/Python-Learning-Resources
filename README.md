@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **cheahjs/free-llm-api-resources** – A list of free LLM inference resources accessible via API.
-* **THUDM/slime** – slime is an LLM post-training framework for RL Scaling.
-* **karpathy/nanochat** – The best ChatGPT that $100 can buy.
-* **K-Dense-AI/claude-scientific-skills** – A set of ready to use scientific skills for Claude
-* **coleam00/context-engineering-intro** – Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
+* **ruvnet/wifi-densepose** – Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
+* **Zipstack/unstract** – No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
+* **GetStream/Vision-Agents** – Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.
+* **open-webui/open-webui** – User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+* **music-assistant/server** – Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-14_
+_Last updated: 2026-02-15_
