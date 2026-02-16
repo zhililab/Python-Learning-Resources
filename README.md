@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **ruvnet/wifi-densepose** – Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
-* **Zipstack/unstract** – No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
-* **GetStream/Vision-Agents** – Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.
-* **open-webui/open-webui** – User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-* **music-assistant/server** – Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
+* **Comfy-Org/ComfyUI-Manager** – ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
+* **HKUDS/RAG-Anything** – "RAG-Anything: All-in-One RAG Framework"
+* **Jeffallan/claude-skills** – 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+* **resemble-ai/chatterbox** – SoTA open-source TTS
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-15_
+_Last updated: 2026-02-16_
