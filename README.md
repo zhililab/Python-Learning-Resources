@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **ruvnet/wifi-densepose** – Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
-* **Comfy-Org/ComfyUI-Manager** – ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
-* **HKUDS/RAG-Anything** – "RAG-Anything: All-in-One RAG Framework"
-* **Jeffallan/claude-skills** – 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-* **resemble-ai/chatterbox** – SoTA open-source TTS
+* **hummingbot/hummingbot** – Open source software that helps you create and deploy high-frequency crypto trading bots
+* **anthropics/claude-quickstarts** – A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+* **p-e-w/heretic** – Fully automatic censorship removal for language models
+* **hesreallyhim/awesome-claude-code** – A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-16_
+_Last updated: 2026-02-17_
