@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **ruvnet/wifi-densepose** – Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
+* **p-e-w/heretic** – Fully automatic censorship removal for language models
 * **hummingbot/hummingbot** – Open source software that helps you create and deploy high-frequency crypto trading bots
 * **anthropics/claude-quickstarts** – A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-* **p-e-w/heretic** – Fully automatic censorship removal for language models
-* **hesreallyhim/awesome-claude-code** – A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+* **davila7/claude-code-templates** – CLI tool for configuring and monitoring Claude Code
+* **ruvnet/wifi-densepose** – Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-17_
+_Last updated: 2026-02-18_
