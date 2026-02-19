@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **p-e-w/heretic** – Fully automatic censorship removal for language models
 * **hummingbot/hummingbot** – Open source software that helps you create and deploy high-frequency crypto trading bots
-* **anthropics/claude-quickstarts** – A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-* **davila7/claude-code-templates** – CLI tool for configuring and monitoring Claude Code
-* **ruvnet/wifi-densepose** – Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
+* **AstrBotDevs/AstrBot** – Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+* **mistralai/mistral-vibe** – Minimal CLI coding agent by Mistral
+* **NVIDIA-NeMo/Automodel** – Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-18_
+_Last updated: 2026-02-19_
