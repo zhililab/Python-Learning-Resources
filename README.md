@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **RichardAtCT/claude-code-telegram** – A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
+* **freemocap/freemocap** – Free Motion Capture for Everyone 💀✨
 * **p-e-w/heretic** – Fully automatic censorship removal for language models
-* **hummingbot/hummingbot** – Open source software that helps you create and deploy high-frequency crypto trading bots
-* **AstrBotDevs/AstrBot** – Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-* **mistralai/mistral-vibe** – Minimal CLI coding agent by Mistral
-* **NVIDIA-NeMo/Automodel** – Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+* **exo-explore/exo** – Run frontier AI locally.
+* **GodsScion/Auto_job_applier_linkedIn** – Make your job hunt easy by automating your application process with this Auto Applier
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-02-20_
