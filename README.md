@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **RichardAtCT/claude-code-telegram** – A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
-* **freemocap/freemocap** – Free Motion Capture for Everyone 💀✨
-* **p-e-w/heretic** – Fully automatic censorship removal for language models
-* **exo-explore/exo** – Run frontier AI locally.
-* **GodsScion/Auto_job_applier_linkedIn** – Make your job hunt easy by automating your application process with this Auto Applier
+* **PostHog/posthog** – 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
+* **anthropics/claude-plugins-official** – Official, Anthropic-managed directory of high quality Claude Code Plugins.
+* **google-research/timesfm** – TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+* **roboflow/trackers** – Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.
+* **huggingface/skills** – No description provided.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-02-21_
