@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **huggingface/skills** – No description provided.
-* **RichardAtCT/claude-code-telegram** – A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
-* **oppia/oppia** – A free, online learning platform to make quality education accessible for all.
-* **microsoft/agent-framework** – A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
-* **google-research/timesfm** – TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+* **OpenBB-finance/OpenBB** – Financial data platform for analysts, quants and AI agents.
+* **mihail911/modern-software-dev-assignments** – Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
+* **yt-dlp/yt-dlp** – A feature-rich command-line audio/video downloader
+* **openai/evals** – Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-02-23_
