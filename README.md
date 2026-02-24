@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **huggingface/skills** – No description provided.
 * **OpenBB-finance/OpenBB** – Financial data platform for analysts, quants and AI agents.
-* **mihail911/modern-software-dev-assignments** – Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
-* **yt-dlp/yt-dlp** – A feature-rich command-line audio/video downloader
-* **openai/evals** – Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+* **muratcankoylan/Agent-Skills-for-Context-Engineering** – A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+* **VectifyAI/PageIndex** – 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+* **NevaMind-AI/memU** – Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-02-23_
+_Last updated: 2026-02-24_
