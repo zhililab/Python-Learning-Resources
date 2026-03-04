@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **alibaba/OpenSandbox** – OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
-* **microsoft/markitdown** – Python tool for converting files and office documents to Markdown.
 * **K-Dense-AI/claude-scientific-skills** – A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
-* **NanmiCoder/MediaCrawler** – 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-* **scrapy/scrapy** – Scrapy, a fast high-level web crawling & scraping framework for Python.
+* **agentscope-ai/agentscope** – Build and run agents you can see, understand and trust.
+* **agentscope-ai/ReMe** – ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
+* **LMCache/LMCache** – Supercharge Your LLM with the Fastest KV Cache Layer
+* **alibaba/OpenSandbox** – OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-03_
+_Last updated: 2026-03-04_
