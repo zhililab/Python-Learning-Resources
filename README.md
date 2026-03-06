@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **K-Dense-AI/claude-scientific-skills** – A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
-* **agentscope-ai/ReMe** – ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-* **alibaba/OpenSandbox** – OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
+* **TheCraigHewitt/seomachine** – A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+* **inclusionAI/AReaL** – Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
 * **FujiwaraChoki/MoneyPrinterV2** – Automate the process of making money online.
-* **agentscope-ai/agentscope** – Build and run agents you can see, understand and trust.
+* **agentscope-ai/ReMe** – ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
+* **public-apis/public-apis** – A collective list of free APIs
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-05_
+_Last updated: 2026-03-06_
