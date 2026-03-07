@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **TheCraigHewitt/seomachine** – A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+* **QwenLM/Qwen-Agent** – Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 * **inclusionAI/AReaL** – Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
-* **FujiwaraChoki/MoneyPrinterV2** – Automate the process of making money online.
-* **agentscope-ai/ReMe** – ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-* **public-apis/public-apis** – A collective list of free APIs
+* **lingfengQAQ/webnovel-writer** – 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
+* **openai/skills** – Skills Catalog for Codex
+* **TheCraigHewitt/seomachine** – A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-06_
+_Last updated: 2026-03-07_
