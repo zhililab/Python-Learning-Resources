@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **666ghj/MiroFish** – A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 * **openai/skills** – Skills Catalog for Codex
-* **QwenLM/Qwen-Agent** – Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 * **virattt/ai-hedge-fund** – An AI Hedge Fund Team
-* **pgmpy/pgmpy** – Python library for Causal AI
+* **teng-lin/notebooklm-py** – Unofficial Python API for Google NotebookLM
+* **lingfengQAQ/webnovel-writer** – 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-08_
+_Last updated: 2026-03-09_
