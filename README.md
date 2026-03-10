@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **666ghj/MiroFish** – A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-* **openai/skills** – Skills Catalog for Codex
-* **virattt/ai-hedge-fund** – An AI Hedge Fund Team
-* **teng-lin/notebooklm-py** – Unofficial Python API for Google NotebookLM
-* **lingfengQAQ/webnovel-writer** – 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
+* **karpathy/nanochat** – The best ChatGPT that $100 can buy.
+* **666ghj/BettaFish** – 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+* **NousResearch/hermes-agent** – The agent that grows with you
+* **alirezarezvani/claude-skills** – 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-09_
+_Last updated: 2026-03-10_
