@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **666ghj/MiroFish** – A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-* **NousResearch/hermes-agent** – The agent that grows with you
+* **fishaudio/fish-speech** – SOTA Open Source TTS
 * **virattt/ai-hedge-fund** – An AI Hedge Fund Team
-* **karpathy/nanochat** – The best ChatGPT that $100 can buy.
-* **bytedance/deer-flow** – An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+* **NousResearch/hermes-agent** – The agent that grows with you
+* **AstrBotDevs/AstrBot** – Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-11_
+_Last updated: 2026-03-12_
