@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **microsoft/BitNet** – Official inference framework for 1-bit LLMs
-* **fishaudio/fish-speech** – SOTA Open Source TTS
 * **langflow-ai/openrag** – OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
-* **vectorize-io/hindsight** – Hindsight: Agent Memory That Learns
-* **NousResearch/hermes-agent** – The agent that grows with you
+* **public-apis/public-apis** – A collective list of free APIs
+* **fishaudio/fish-speech** – SOTA Open Source TTS
+* **anthropics/claude-plugins-official** – Official, Anthropic-managed directory of high quality Claude Code Plugins.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-13_
+_Last updated: 2026-03-14_
