@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **volcengine/OpenViking** – OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
-* **anthropics/claude-plugins-official** – Official, Anthropic-managed directory of high quality Claude Code Plugins.
-* **dimensionalOS/dimos** – The Dimensional Framework
 * **p-e-w/heretic** – Fully automatic censorship removal for language models
-* **langflow-ai/openrag** – OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
+* **666ghj/MiroFish** – A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+* **topoteretes/cognee** – Knowledge Engine for AI Agent Memory in 6 lines of code
+* **anthropics/claude-plugins-official** – Official, Anthropic-managed directory of high quality Claude Code Plugins.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-15_
+_Last updated: 2026-03-16_
