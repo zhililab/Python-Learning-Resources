@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **langchain-ai/deepagents** – Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
-* **resemble-ai/chatterbox** – SoTA open-source TTS
-* **dimensionalOS/dimos** – Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).
-* **TauricResearch/TradingAgents** – TradingAgents: Multi-Agents LLM Financial Trading Framework
-* **MiroMindAI/MiroThinker** – MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker-1.7 and MiroThinker-H1, achieve 74.0 and 88.2 on the BrowseComp, respectively.
+* **unslothai/unsloth** – Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+* **newton-physics/newton** – An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
+* **langchain-ai/open-swe** – An Open-Source Asynchronous Coding Agent
+* **FujiwaraChoki/MoneyPrinterV2** – Automate the process of making money online.
+* **roboflow/trackers** – Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-18_
+_Last updated: 2026-03-19_
