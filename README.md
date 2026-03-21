@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **langchain-ai/open-swe** – An Open-Source Asynchronous Coding Agent
-* **unslothai/unsloth** – Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 * **newton-physics/newton** – An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
-* **FujiwaraChoki/MoneyPrinterV2** – Automate the process of making money online.
 * **TauricResearch/TradingAgents** – TradingAgents: Multi-Agents LLM Financial Trading Framework
+* **FujiwaraChoki/MoneyPrinterV2** – Automate the process of making money online.
+* **huggingface/skills** – Give your agents the power of the Hugging Face ecosystem
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-20_
+_Last updated: 2026-03-21_
