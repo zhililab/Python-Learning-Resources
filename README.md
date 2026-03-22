@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **langchain-ai/open-swe** – An Open-Source Asynchronous Coding Agent
-* **newton-physics/newton** – An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
-* **TauricResearch/TradingAgents** – TradingAgents: Multi-Agents LLM Financial Trading Framework
 * **FujiwaraChoki/MoneyPrinterV2** – Automate the process of making money online.
-* **huggingface/skills** – Give your agents the power of the Hugging Face ecosystem
+* **vllm-project/vllm-omni** – A framework for efficient model inference with omni-modality models
+* **TauricResearch/TradingAgents** – TradingAgents: Multi-Agents LLM Financial Trading Framework
+* **microsoft/markitdown** – Python tool for converting files and office documents to Markdown.
+* **langchain-ai/open-swe** – An Open-Source Asynchronous Coding Agent
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-21_
+_Last updated: 2026-03-22_
