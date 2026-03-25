@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **FujiwaraChoki/MoneyPrinterV2** – Automate the process of making money online.
 * **bytedance/deer-flow** – An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-* **browser-use/browser-use** – 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+* **FujiwaraChoki/MoneyPrinterV2** – Automate the process of making money online.
+* **harry0703/MoneyPrinterTurbo** – 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 * **TauricResearch/TradingAgents** – TradingAgents: Multi-Agents LLM Financial Trading Framework
-* **tinygrad/tinygrad** – You like pytorch? You like micrograd? You love tinygrad! ❤️
+* **mvanhorn/last30days-skill** – AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-24_
+_Last updated: 2026-03-25_
