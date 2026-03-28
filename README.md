@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **mvanhorn/last30days-skill** – AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-* **bytedance/deer-flow** – An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-* **agentscope-ai/agentscope** – Build and run agents you can see, understand and trust.
+* **hacksider/Deep-Live-Cam** – real time face swap and one-click video deepfake with only a single image
+* **SakanaAI/AI-Scientist-v2** – The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+* **microsoft/VibeVoice** – Open-Source Frontier Voice AI
 * **datalab-to/chandra** – OCR model that handles complex tables, forms, handwriting with full layout.
-* **usestrix/strix** – Open-source AI hackers to find and fix your app’s vulnerabilities.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-27_
+_Last updated: 2026-03-28_
