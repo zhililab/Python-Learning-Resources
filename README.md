@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **mvanhorn/last30days-skill** – AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 * **hacksider/Deep-Live-Cam** – real time face swap and one-click video deepfake with only a single image
 * **SakanaAI/AI-Scientist-v2** – The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
-* **microsoft/VibeVoice** – Open-Source Frontier Voice AI
+* **onyx-dot-app/onyx** – Open Source AI Platform - AI Chat with advanced features that works with every LLM
 * **datalab-to/chandra** – OCR model that handles complex tables, forms, handwriting with full layout.
+* **agentscope-ai/agentscope** – Build and run agents you can see, understand and trust.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-03-28_
+_Last updated: 2026-03-29_
