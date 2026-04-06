@@ -63,8 +63,8 @@ Here are some of the Python repositories trending on GitHub today:
 * **Blaizzy/mlx-vlm** – MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 * **onyx-dot-app/onyx** – Open Source AI Platform - AI Chat with advanced features that works with every LLM
 * **microsoft/agent-framework** – A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
-* **sherlock-project/sherlock** – Hunt down social media accounts by username across social networks
-* **HKUDS/LightRAG** – [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+* **NousResearch/hermes-agent** – The agent that grows with you
+* **HKUDS/RAG-Anything** – "RAG-Anything: All-in-One RAG Framework"
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-05_
+_Last updated: 2026-04-06_
