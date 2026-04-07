@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **Blaizzy/mlx-vlm** – MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
-* **onyx-dot-app/onyx** – Open Source AI Platform - AI Chat with advanced features that works with every LLM
-* **microsoft/agent-framework** – A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 * **NousResearch/hermes-agent** – The agent that grows with you
-* **HKUDS/RAG-Anything** – "RAG-Anything: All-in-One RAG Framework"
+* **NVIDIA/personaplex** – PersonaPlex code.
+* **HKUDS/DeepTutor** – "DeepTutor: Agent-Native Personalized Learning Assistant"
+* **Blaizzy/mlx-vlm** – MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
+* **teng-lin/notebooklm-py** – Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-06_
+_Last updated: 2026-04-07_
