@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **NousResearch/hermes-agent** – The agent that grows with you
 * **NVIDIA/personaplex** – PersonaPlex code.
+* **elebumm/RedditVideoMakerBot** – Create Reddit Videos with just✨ one command ✨
 * **HKUDS/DeepTutor** – "DeepTutor: Agent-Native Personalized Learning Assistant"
-* **Blaizzy/mlx-vlm** – MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
-* **teng-lin/notebooklm-py** – Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
+* **TheCraigHewitt/seomachine** – A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+* **mikf/gallery-dl** – Command-line program to download image galleries and collections from several image hosting sites
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-07_
+_Last updated: 2026-04-08_
