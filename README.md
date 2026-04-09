@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **TheCraigHewitt/seomachine** – A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
 * **NVIDIA/personaplex** – PersonaPlex code.
 * **elebumm/RedditVideoMakerBot** – Create Reddit Videos with just✨ one command ✨
-* **HKUDS/DeepTutor** – "DeepTutor: Agent-Native Personalized Learning Assistant"
-* **TheCraigHewitt/seomachine** – A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
-* **mikf/gallery-dl** – Command-line program to download image galleries and collections from several image hosting sites
+* **newton-physics/newton** – An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
+* **virattt/ai-hedge-fund** – An AI Hedge Fund Team
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-08_
+_Last updated: 2026-04-09_
