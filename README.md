@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **microsoft/markitdown** – Python tool for converting files and office documents to Markdown.
 * **NousResearch/hermes-agent** – The agent that grows with you
-* **HKUDS/DeepTutor** – "DeepTutor: Agent-Native Personalized Learning Assistant"
-* **OpenBMB/VoxCPM** – VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-* **TheCraigHewitt/seomachine** – A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
 * **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
+* **HKUDS/DeepTutor** – "DeepTutor: Agent-Native Personalized Learning Assistant"
+* **FloatingPragma/observer-patch-holography** – OPH is an active research program aiming to construct a fundamental theory of physics from observer consistency.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-10_
+_Last updated: 2026-04-11_
