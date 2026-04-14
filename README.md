@@ -63,7 +63,7 @@ Here are some of the Python repositories trending on GitHub today:
 * **NousResearch/hermes-agent** – The agent that grows with you
 * **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
 * **microsoft/markitdown** – Python tool for converting files and office documents to Markdown.
-* **OpenBMB/VoxCPM** – VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+* **virattt/ai-hedge-fund** – An AI Hedge Fund Team
 * **ahujasid/blender-mcp** – No description provided.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-13_
+_Last updated: 2026-04-14_
