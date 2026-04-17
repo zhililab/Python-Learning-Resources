@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **virattt/ai-hedge-fund** – An AI Hedge Fund Team
-* **public-apis/public-apis** – A collective list of free APIs
 * **lsdefine/GenericAgent** – Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
 * **google/magika** – Fast and accurate AI powered file content types detection
-* **NousResearch/hermes-agent** – The agent that grows with you
+* **topoteretes/cognee** – Knowledge Engine for AI Agent Memory in 6 lines of code
+* **z-lab/dflash** – DFlash: Block Diffusion for Flash Speculative Decoding
+* **openai/openai-agents-python** – A lightweight, powerful framework for multi-agent workflows
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-16_
+_Last updated: 2026-04-17_
