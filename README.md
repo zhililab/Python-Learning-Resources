@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **lsdefine/GenericAgent** – Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-* **Tracer-Cloud/opensre** – Build your own AI SRE agents. The open source toolkit for the AI era ✨
-* **z-lab/dflash** – DFlash: Block Diffusion for Flash Speculative Decoding
 * **openai/openai-agents-python** – A lightweight, powerful framework for multi-agent workflows
-* **google/magika** – Fast and accurate AI powered file content types detection
+* **Tracer-Cloud/opensre** – Build your own AI SRE agents. The open source toolkit for the AI era ✨
+* **lsdefine/GenericAgent** – Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+* **Shubhamsaboo/awesome-llm-apps** – 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+* **nv-tlabs/lyra** – Project Lyra: Open Generative 3D World Models
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-18_
+_Last updated: 2026-04-19_
