@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **Fincept-Corporation/FinceptTerminal** – FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 * **openai/openai-agents-python** – A lightweight, powerful framework for multi-agent workflows
-* **Tracer-Cloud/opensre** – Build your own AI SRE agents. The open source toolkit for the AI era ✨
-* **lsdefine/GenericAgent** – Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-* **Shubhamsaboo/awesome-llm-apps** – 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-* **nv-tlabs/lyra** – Project Lyra: Open Generative 3D World Models
+* **paperless-ngx/paperless-ngx** – A community-supported supercharged document management system: scan, index and archive all your documents
+* **HKUDS/DeepTutor** – "DeepTutor: Agent-Native Personalized Learning Assistant"
+* **jingyaogong/minimind** – 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-19_
+_Last updated: 2026-04-20_
