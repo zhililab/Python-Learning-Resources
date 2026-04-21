@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **Fincept-Corporation/FinceptTerminal** – FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-* **openai/openai-agents-python** – A lightweight, powerful framework for multi-agent workflows
 * **paperless-ngx/paperless-ngx** – A community-supported supercharged document management system: scan, index and archive all your documents
-* **HKUDS/DeepTutor** – "DeepTutor: Agent-Native Personalized Learning Assistant"
-* **jingyaogong/minimind** – 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
+* **openai/openai-agents-python** – A lightweight, powerful framework for multi-agent workflows
+* **alexzhang13/rlm** – General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
+* **barry-far/V2ray-Config** – Free V2ray Configs, Updating Every 15 minutes. 🚀🌐
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-20_
+_Last updated: 2026-04-21_
