@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **Fincept-Corporation/FinceptTerminal** – FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-* **paperless-ngx/paperless-ngx** – A community-supported supercharged document management system: scan, index and archive all your documents
-* **openai/openai-agents-python** – A lightweight, powerful framework for multi-agent workflows
-* **alexzhang13/rlm** – General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
-* **barry-far/V2ray-Config** – Free V2ray Configs, Updating Every 15 minutes. 🚀🌐
+* **HKUDS/RAG-Anything** – "RAG-Anything: All-in-One RAG Framework"
+* **sansan0/TrendRadar** – ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
+* **OthmanAdi/planning-with-files** – Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+* **huggingface/skills** – Give your agents the power of the Hugging Face ecosystem
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-21_
+_Last updated: 2026-04-22_
