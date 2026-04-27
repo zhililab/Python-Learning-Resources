@@ -63,8 +63,8 @@ Here are some of the Python repositories trending on GitHub today:
 * **Alishahryar1/free-claude-code** – Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 * **Z4nzu/hackingtool** – ALL IN ONE Hacking Tool For Hackers
 * **PostHog/posthog** – 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
-* **davila7/claude-code-templates** – CLI tool for configuring and monitoring Claude Code
-* **huggingface/ml-intern** – 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+* **home-assistant/core** – 🏡 Open source home automation that puts local control and privacy first.
+* **ComposioHQ/awesome-codex-skills** – A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-26_
+_Last updated: 2026-04-27_
