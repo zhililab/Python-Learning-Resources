@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **ComposioHQ/awesome-codex-skills** – A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-* **Alishahryar1/free-claude-code** – Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-* **davila7/claude-code-templates** – CLI tool for configuring and monitoring Claude Code
 * **microsoft/VibeVoice** – Open-Source Frontier Voice AI
-* **Z4nzu/hackingtool** – ALL IN ONE Hacking Tool For Hackers
+* **davila7/claude-code-templates** – CLI tool for configuring and monitoring Claude Code
+* **HunxByts/GhostTrack** – Useful tool to track location or mobile number
+* **public-apis/public-apis** – A collective list of free APIs
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-04-29_
