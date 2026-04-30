@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **HunxByts/GhostTrack** – Useful tool to track location or mobile number
 * **ComposioHQ/awesome-codex-skills** – A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 * **microsoft/VibeVoice** – Open-Source Frontier Voice AI
-* **davila7/claude-code-templates** – CLI tool for configuring and monitoring Claude Code
-* **HunxByts/GhostTrack** – Useful tool to track location or mobile number
-* **public-apis/public-apis** – A collective list of free APIs
+* **ZhuLinsen/daily_stock_analysis** – LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+* **EbookFoundation/free-programming-books** – 📚 Freely available programming books
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-04-29_
+_Last updated: 2026-04-30_
