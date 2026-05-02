@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **TauricResearch/TradingAgents** – TradingAgents: Multi-Agents LLM Financial Trading Framework
-* **public-apis/public-apis** – A collective list of free APIs
 * **soxoj/maigret** – 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-* **HunxByts/GhostTrack** – Useful tool to track location or mobile number
-* **EbookFoundation/free-programming-books** – 📚 Freely available programming books
+* **hugohe3/ppt-master** – AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
+* **google-research/timesfm** – TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+* **NVlabs/GR00T-WholeBodyControl** – Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-05-01_
+_Last updated: 2026-05-02_
