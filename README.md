@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **TauricResearch/TradingAgents** – TradingAgents: Multi-Agents LLM Financial Trading Framework
 * **soxoj/maigret** – 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-* **hugohe3/ppt-master** – AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
-* **google-research/timesfm** – TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-* **NVlabs/GR00T-WholeBodyControl** – Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC
+* **tirth8205/code-review-graph** – Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
+* **TheAlgorithms/Python** – All Algorithms implemented in Python
+* **9001/copyparty** – Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-05-02_
+_Last updated: 2026-05-03_
