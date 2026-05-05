@@ -62,8 +62,8 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **TauricResearch/TradingAgents** – TradingAgents: Multi-Agents LLM Financial Trading Framework
 * **soxoj/maigret** – 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+* **cocoindex-io/cocoindex** – Incremental engine for long horizon agents 🌟 Star if you like it!
 * **AIDC-AI/Pixelle-Video** – 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-* **Q00/ouroboros** – Agent OS: Stop prompting. Start specifying.
 * **OpenBMB/VoxCPM** – VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-05-04_
+_Last updated: 2026-05-05_
