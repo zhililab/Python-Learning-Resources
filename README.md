@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **PriorLabs/TabPFN** – ⚡ TabPFN: Foundation Model for Tabular Data ⚡
-* **LearningCircuit/local-deep-research** – ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
 * **anthropics/financial-services** – No description provided.
-* **cheahjs/free-llm-api-resources** – A list of free LLM inference resources accessible via API.
-* **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
+* **z-lab/dflash** – DFlash: Block Diffusion for Flash Speculative Decoding
+* **LearningCircuit/local-deep-research** – ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+* **VectifyAI/PageIndex** – 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+* **PriorLabs/TabPFN** – ⚡ TabPFN: Foundation Model for Tabular Data ⚡
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-05-08_
