@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **anthropics/financial-services** – No description provided.
 * **z-lab/dflash** – DFlash: Block Diffusion for Flash Speculative Decoding
-* **LearningCircuit/local-deep-research** – ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
-* **VectifyAI/PageIndex** – 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-* **PriorLabs/TabPFN** – ⚡ TabPFN: Foundation Model for Tabular Data ⚡
+* **CloakHQ/CloakBrowser** – Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+* **awslabs/aidlc-workflows** – AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents
+* **HKUDS/AI-Trader** – "AI-Trader: 100% Fully-Automated Agent-Native Trading"
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-09_
