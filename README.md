@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **anthropics/financial-services** – No description provided.
-* **z-lab/dflash** – DFlash: Block Diffusion for Flash Speculative Decoding
+* **datawhalechina/hello-agents** – 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+* **HKUDS/ViMax** – "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 * **CloakHQ/CloakBrowser** – Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-* **awslabs/aidlc-workflows** – AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents
-* **HKUDS/AI-Trader** – "AI-Trader: 100% Fully-Automated Agent-Native Trading"
+* **freemocap/freemocap** – Free Motion Capture for Everyone 💀✨
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-10_
