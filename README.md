@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **K-Dense-AI/scientific-agent-skills** – A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 * **CloakHQ/CloakBrowser** – Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-* **datawhalechina/hello-agents** – 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-* **HKUDS/AI-Trader** – "AI-Trader: 100% Fully-Automated Agent-Native Trading"
+* **github/spec-kit** – 💫 Toolkit to help you get started with Spec-Driven Development
 * **NousResearch/hermes-agent** – The agent that grows with you
-* **fishaudio/fish-speech** – SOTA Open Source TTS
+* **Asabeneh/30-Days-Of-Python** – The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-14_
