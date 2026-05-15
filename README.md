@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **K-Dense-AI/scientific-agent-skills** – A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+* **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
+* **roboflow/supervision** – We write your reusable computer vision tools. 💜
+* **NVIDIA-AI-Blueprints/video-search-and-summarization** – Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
 * **CloakHQ/CloakBrowser** – Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-* **github/spec-kit** – 💫 Toolkit to help you get started with Spec-Driven Development
-* **NousResearch/hermes-agent** – The agent that grows with you
-* **Asabeneh/30-Days-Of-Python** – The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-15_
