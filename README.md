@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **K-Dense-AI/scientific-agent-skills** – A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
-* **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
-* **roboflow/supervision** – We write your reusable computer vision tools. 💜
+* **anthropics/skills** – Public repository for Agent Skills
 * **NVIDIA-AI-Blueprints/video-search-and-summarization** – Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
-* **CloakHQ/CloakBrowser** – Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+* **joeseesun/qiaomu-anything-to-notebooklm** – Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
+* **bregman-arie/devops-exercises** – Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-16_
