@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **K-Dense-AI/scientific-agent-skills** – A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 * **anthropics/skills** – Public repository for Agent Skills
-* **NVIDIA-AI-Blueprints/video-search-and-summarization** – Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
-* **joeseesun/qiaomu-anything-to-notebooklm** – Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
-* **bregman-arie/devops-exercises** – Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+* **awslabs/agent-plugins** – Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS.
+* **PurpleAILAB/Decepticon** – Autonomous Hacking Agent for Red Team
+* **HKUDS/CLI-Anything** – "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-05-16_
+_Last updated: 2026-05-17_
