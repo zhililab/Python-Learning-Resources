@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **Imbad0202/academic-research-skills** – Academic Research Skills for Claude Code: research → write → review → revise → finalize
-* **rohitg00/ai-engineering-from-scratch** – Learn it. Build it. Ship it for others.
-* **HKUDS/CLI-Anything** – "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 * **anthropics/claude-plugins-official** – Official, Anthropic-managed directory of high quality Claude Code Plugins.
-* **HKUDS/ViMax** – "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+* **HKUDS/CLI-Anything** – "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+* **rohitg00/ai-engineering-from-scratch** – Learn it. Build it. Ship it for others.
+* **teng-lin/notebooklm-py** – Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
+* **antoinezambelli/forge** – A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-05-21_
+_Last updated: 2026-05-22_
