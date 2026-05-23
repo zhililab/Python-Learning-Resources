@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **anthropics/claude-plugins-official** – Official, Anthropic-managed directory of high quality Claude Code Plugins.
-* **HKUDS/CLI-Anything** – "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 * **rohitg00/ai-engineering-from-scratch** – Learn it. Build it. Ship it for others.
-* **teng-lin/notebooklm-py** – Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
-* **antoinezambelli/forge** – A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
+* **odoo/odoo** – Odoo. Open Source Apps To Grow Your Business.
+* **Fincept-Corporation/FinceptTerminal** – FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+* **yt-dlp/yt-dlp** – A feature-rich command-line audio/video downloader
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-05-22_
+_Last updated: 2026-05-23_
