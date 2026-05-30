@@ -62,8 +62,8 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **harry0703/MoneyPrinterTurbo** – 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 * **microsoft/markitdown** – Python tool for converting files and office documents to Markdown.
-* **unclecode/crawl4ai** – 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-* **OpenMOSS/MOSS-TTS** – MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
+* **anthropics/claude-code** – Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+* **galilai-group/stable-worldmodel** – A platform for reproducible world model research and evaluation
 * **anthropics/skills** – Public repository for Agent Skills
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-05-29_
+_Last updated: 2026-05-30_
