@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **chopratejas/headroom** – Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 * **NousResearch/hermes-agent** – The agent that grows with you
-* **microsoft/markitdown** – Python tool for converting files and office documents to Markdown.
-* **nesquena/hermes-webui** – Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
-* **D4Vinci/Scrapling** – 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+* **PaddlePaddle/PaddleOCR** – Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+* **github/spec-kit** – 💫 Toolkit to help you get started with Spec-Driven Development
+* **Open-LLM-VTuber/Open-LLM-VTuber** – Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-05_
