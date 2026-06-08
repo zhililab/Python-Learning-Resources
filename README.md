@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **mvanhorn/last30days-skill** – AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-* **MemPalace/mempalace** – The best-benchmarked open-source AI memory system. And it's free.
-* **Panniantong/Agent-Reach** – Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-* **openai/whisper** – Robust Speech Recognition via Large-Scale Weak Supervision
-* **PaddlePaddle/PaddleOCR** – Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+* **NousResearch/hermes-agent** – The agent that grows with you
+* **RyanCodrai/turbovec** – A vector index built on TurboQuant, written in Rust with Python bindings
+* **HunxByts/GhostTrack** – Useful tool to track location or mobile number
+* **roboflow/supervision** – We write your reusable computer vision tools. 💜
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-06-07_
+_Last updated: 2026-06-08_
