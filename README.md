@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **mvanhorn/last30days-skill** – AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 * **RyanCodrai/turbovec** – A vector index built on TurboQuant, written in Rust with Python bindings
-* **google/skills** – Agent Skills for Google products and technologies
-* **Panniantong/Agent-Reach** – Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+* **roboflow/supervision** – We write your reusable computer vision tools. 💜
 * **Andyyyy64/whichllm** – Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
+* **maziyarpanahi/openmed** – open-source healthcare ai
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-06-09_
+_Last updated: 2026-06-10_
