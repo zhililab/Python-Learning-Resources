@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **mvanhorn/last30days-skill** – AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-* **RyanCodrai/turbovec** – A vector index built on TurboQuant, written in Rust with Python bindings
-* **roboflow/supervision** – We write your reusable computer vision tools. 💜
-* **Andyyyy64/whichllm** – Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
+* **soxoj/maigret** – 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+* **harry0703/MoneyPrinterTurbo** – 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 * **maziyarpanahi/openmed** – open-source healthcare ai
+* **luongnv89/claude-howto** – A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-06-10_
+_Last updated: 2026-06-11_
