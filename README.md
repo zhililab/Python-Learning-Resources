@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **mvanhorn/last30days-skill** – AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-* **soxoj/maigret** – 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-* **harry0703/MoneyPrinterTurbo** – 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 * **maziyarpanahi/openmed** – open-source healthcare ai
-* **luongnv89/claude-howto** – A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+* **NVIDIA/SkillSpector** – Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+* **soxoj/maigret** – 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+* **hexo-ai/sia** – SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.
+* **francescopace/espectre** – 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-06-11_
+_Last updated: 2026-06-12_
