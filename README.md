@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **music-assistant/server** – Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
 * **maziyarpanahi/openmed** – open-source healthcare ai
+* **LMCache/LMCache** – LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
 * **NVIDIA/SkillSpector** – Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-* **soxoj/maigret** – 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-* **hexo-ai/sia** – SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.
-* **francescopace/espectre** – 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
+* **FareedKhan-dev/train-llm-from-scratch** – A straightforward method for training your LLM, from downloading data to generating text.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-06-12_
+_Last updated: 2026-06-13_
