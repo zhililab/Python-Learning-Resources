@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **pytest-dev/pytest** – The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
-* **NVIDIA/SkillSpector** – Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-* **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
+* **Panniantong/Agent-Reach** – Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+* **rohitg00/ai-engineering-from-scratch** – Learn it. Build it. Ship it for others.
 * **music-assistant/server** – Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
 * **Free-TV/IPTV** – M3U Playlist for free TV channels
+* **NVIDIA/SkillSpector** – Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-06-15_
+_Last updated: 2026-06-16_
