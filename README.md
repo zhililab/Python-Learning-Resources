@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **Panniantong/Agent-Reach** – Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 * **google-research/timesfm** – TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-* **calesthio/OpenMontage** – World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-* **alexzhang13/rlm** – General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
-* **OpenBMB/VoxCPM** – VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+* **yifanfeng97/Hyper-Extract** – Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.
+* **Lightricks/LTX-2** – Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
+* **LibreTranslate/LibreTranslate** – Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
+* **anthropics/financial-services** – No description provided.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-06-18_
+_Last updated: 2026-06-19_
