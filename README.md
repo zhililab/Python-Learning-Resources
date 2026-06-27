@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **calesthio/OpenMontage** – World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-* **xbtlin/ai-berkshire** – AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.
-* **aws/agent-toolkit-for-aws** – Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
-* **mukul975/Anthropic-Cybersecurity-Skills** – 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+* **commaai/openpilot** – openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 * **opendatalab/MinerU** – Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
+* **xbtlin/ai-berkshire** – AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.
+* **calesthio/OpenMontage** – World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+* **aws/agent-toolkit-for-aws** – Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-06-26_
+_Last updated: 2026-06-27_
