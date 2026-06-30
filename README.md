@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **cupy/cupy** – NumPy & SciPy for GPU
+* **soxoj/maigret** – 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 * **commaai/openpilot** – openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 * **xbtlin/ai-berkshire** – AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
-* **Robbyant/lingbot-map** – A feed-forward 3D foundation model for reconstructing scenes from streaming data
-* **cupy/cupy** – NumPy & SciPy for GPU
-* **opendatalab/MinerU** – Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
+* **browser-use/video-use** – Edit videos with coding agents
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-06-29_
+_Last updated: 2026-06-30_
