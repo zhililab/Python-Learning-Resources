@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **usestrix/strix** – Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-* **browser-use/video-use** – Edit videos with coding agents
-* **xbtlin/ai-berkshire** – AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+* **HKUDS/Vibe-Trading** – "Vibe-Trading: Your Personal Trading Agent"
+* **allenai/olmocr** – Toolkit for linearizing PDFs for LLM datasets/training
 * **Mebus/cupp** – Common User Passwords Profiler (CUPP)
-* **google/agents-cli** – The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
+* **Unclecheng-li/VulnClaw** – 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-07-01_
+_Last updated: 2026-07-02_
