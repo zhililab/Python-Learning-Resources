@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **alirezarezvani/claude-skills** – 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
-* **rommapp/romm** – A beautiful, powerful, self-hosted rom manager and player.
-* **harvard-edge/cs249r_book** – Machine Learning Systems
-* **usestrix/strix** – Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-* **hesreallyhim/awesome-claude-code** – A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
+* **alirezarezvani/claude-skills** – 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+* **mvanhorn/last30days-skill** – AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+* **bradautomates/claude-video** – Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+* **TauricResearch/TradingAgents** – TradingAgents: Multi-Agents LLM Financial Trading Framework
+* **cheahjs/free-llm-api-resources** – A list of free LLM inference resources accessible via API.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-07-06_
+_Last updated: 2026-07-07_
