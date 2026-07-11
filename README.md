@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **unclecode/crawl4ai** – 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-* **bradautomates/claude-video** – Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-* **kyutai-labs/pocket-tts** – A TTS that fits in your CPU (and pocket)
-* **microsoft/SkillOpt** – SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
-* **fqscfqj/Y2A-Auto** – YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
+* **davila7/claude-code-templates** – CLI tool for configuring and monitoring Claude Code
+* **mvanhorn/last30days-skill** – AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+* **huggingface/speech-to-speech** – Build local voice agents with open-source models
+* **roboflow/supervision** – We write your reusable computer vision tools. 💜
+* **openai/openai-python** – The official Python library for the OpenAI API
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-07-10_
+_Last updated: 2026-07-11_
