@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **davila7/claude-code-templates** – CLI tool for configuring and monitoring Claude Code
+* **HKUDS/Vibe-Trading** – "Vibe-Trading: Your Personal Trading Agent"
+* **PrefectHQ/prefect** – Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+* **Shubhamsaboo/awesome-llm-apps** – 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 * **home-assistant/core** – 🏡 Open source home automation that puts local control and privacy first.
-* **ansible/ansible** – Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-* **pytorch/pytorch** – Tensors and Dynamic neural networks in Python with strong GPU acceleration
-* **FoundationAgents/OpenManus** – No fortress, purely open ground. OpenManus is Coming.
+* **virattt/ai-hedge-fund** – An AI Hedge Fund Team
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-07-12_
+_Last updated: 2026-07-13_
