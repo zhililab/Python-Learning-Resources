@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **HKUDS/Vibe-Trading** – "Vibe-Trading: Your Personal Trading Agent"
 * **Shubhamsaboo/awesome-llm-apps** – 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+* **virattt/ai-hedge-fund** – An AI Hedge Fund Team
+* **HKUDS/Vibe-Trading** – "Vibe-Trading: Your Personal Trading Agent"
 * **Graphify-Labs/graphify** – AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
-* **github/spec-kit** – 💫 Toolkit to help you get started with Spec-Driven Development
-* **PrefectHQ/prefect** – Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+* **cactus-compute/needle** – 26m function call model that runs on incredibly small devices
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-07-14_
+_Last updated: 2026-07-15_
