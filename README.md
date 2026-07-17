@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **HKUDS/Vibe-Trading** – "Vibe-Trading: Your Personal Trading Agent"
-* **HKUDS/DeepTutor** – DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+* **apache/ossie** – Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
+* **PostHog/posthog** – 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
 * **Shubhamsaboo/awesome-llm-apps** – 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-* **github/spec-kit** – 💫 Toolkit to help you get started with Spec-Driven Development
-* **HKUDS/nanobot** – Lightweight, open-source AI agent for your tools, chats, and workflows.
+* **HKUDS/DeepTutor** – DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+* **Graphify-Labs/graphify** – AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-07-16_
+_Last updated: 2026-07-17_
