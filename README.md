@@ -60,10 +60,10 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **bojieli/ai-agent-book** – 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+* **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
+* **ComposioHQ/awesome-claude-skills** – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+* **rohitg00/ai-engineering-from-scratch** – Learn it. Build it. Ship it for others.
 * **tirth8205/code-review-graph** – Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-* **AstrBotDevs/AstrBot** – AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-* **langchain-ai/open_deep_research** – No description provided.
 * **dottxt-ai/outlines** – Structured Outputs
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-07-22_
+_Last updated: 2026-07-23_
