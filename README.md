@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
 * **ComposioHQ/awesome-claude-skills** – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-* **rohitg00/ai-engineering-from-scratch** – Learn it. Build it. Ship it for others.
-* **tirth8205/code-review-graph** – Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-* **dottxt-ai/outlines** – Structured Outputs
+* **microsoft/SkillOpt** – SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
+* **slavakurilyak/awesome-ai-agents** – Awesome list of 300+ agentic AI resources
+* **oraios/serena** – A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-07-23_
+_Last updated: 2026-07-24_
