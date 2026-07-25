@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
 * **ComposioHQ/awesome-claude-skills** – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-* **microsoft/SkillOpt** – SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
-* **slavakurilyak/awesome-ai-agents** – Awesome list of 300+ agentic AI resources
-* **oraios/serena** – A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent
+* **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
+* **dottxt-ai/outlines** – Structured Outputs
+* **paperless-ngx/paperless-ngx** – A community-supported supercharged document management system: scan, index and archive all your documents
+* **skypilot-org/skypilot** – The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-07-24_
+_Last updated: 2026-07-25_
