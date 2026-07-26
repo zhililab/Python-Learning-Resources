@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **ComposioHQ/awesome-claude-skills** – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 * **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
-* **dottxt-ai/outlines** – Structured Outputs
-* **paperless-ngx/paperless-ngx** – A community-supported supercharged document management system: scan, index and archive all your documents
-* **skypilot-org/skypilot** – The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.
+* **RyanCodrai/turbovec** – A vector index built on TurboQuant, written in Rust with Python bindings
+* **andrewyng/aisuite** – Simple, unified interface to multiple Generative AI providers
+* **MODSetter/SurfSense** – Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-07-25_
+_Last updated: 2026-07-26_
