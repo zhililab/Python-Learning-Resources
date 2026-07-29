@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **NanmiCoder/MediaCrawler** – 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-* **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
-* **bradautomates/claude-video** – Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-* **mvanhorn/last30days-skill** – AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 * **andrewyng/aisuite** – Simple, unified interface to multiple Generative AI providers
+* **huggingface/speech-to-speech** – Build local voice agents with open-source models
+* **virgiliojr94/book-to-skill** – Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+* **paperswithbacktest/awesome-systematic-trading** – A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+* **microsoft/agent-governance-toolkit** – AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-07-28_
+_Last updated: 2026-07-29_
