@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **goauthentik/authentik** – The authentication glue you need.
 * **huangruiteng/loopx** – Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
-* **donnemartin/system-design-primer** – Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-* **roboflow/supervision** – We write your reusable computer vision tools. 💜
+* **Significant-Gravitas/AutoGPT** – AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+* **tirth8205/code-review-graph** – Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 * **uber/ADR** – ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
-* **Comfy-Org/workflow_templates** – ComfyUI template workflows
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-08-06_
+_Last updated: 2026-08-07_
