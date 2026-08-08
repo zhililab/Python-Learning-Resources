@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **goauthentik/authentik** – The authentication glue you need.
-* **huangruiteng/loopx** – Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+* **semantica-agi/semantica** – Graph-Native Infrastructure for Context and Accountable AI Systems
+* **666ghj/MiroFish** – A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 * **Significant-Gravitas/AutoGPT** – AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-* **tirth8205/code-review-graph** – Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-* **uber/ADR** – ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
+* **google/skills** – Agent Skills for Google products and technologies
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-08-07_
+_Last updated: 2026-08-08_
