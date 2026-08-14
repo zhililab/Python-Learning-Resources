@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **semantica-agi/semantica** – Graph-Native Infrastructure for Context and Accountable AI Systems
-* **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
-* **NanmiCoder/MediaCrawler** – 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-* **hugohe3/ppt-master** – AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-* **smicallef/spiderfoot** – SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+* **anthropics/skills** – Public repository for Agent Skills
+* **cactus-compute/needle** – 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+* **unslothai/unsloth** – Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+* **megadose/holehe** – holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-08-13_
+_Last updated: 2026-08-14_
