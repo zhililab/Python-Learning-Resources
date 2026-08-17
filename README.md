@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **cactus-compute/needle** – 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 * **unslothai/unsloth** – Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 * **public-apis/public-apis** – A collective list of free APIs
-* **MakazhanAlpamys/Soup** – Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
-* **github/spec-kit** – 💫 Toolkit to help you get started with Spec-Driven Development
+* **cactus-compute/needle** – 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+* **HKUDS/CLI-Anything** – "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+* **xai-org/grok-1** – Grok open release
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-17_
