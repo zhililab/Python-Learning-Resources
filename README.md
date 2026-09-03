@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **Imbad0202/academic-research-skills** – Academic Research Skills for Claude Code: research → write → review → revise → finalize
-* **jingyaogong/minimind** – 🧠 Train a 64M-parameter LLM from scratch in just 2h!
-* **3b1b/manim** – Animation engine for explanatory math videos
-* **browser-use/video-use** – Edit videos with coding agents
-* **K-Dense-AI/scientific-agent-skills** – Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+* **google-research/timesfm** – TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+* **debpalash/VoiceStudio** – VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+* **sngyai/Sequoia-X** – A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
+* **NousResearch/hermes-agent** – The agent that grows with you
+* **superlinked/sie** – Open-source inference server and production cluster for all the models your agent needs.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-02_
+_Last updated: 2026-09-03_
