@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **google-research/timesfm** – TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-* **debpalash/VoiceStudio** – VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-* **sngyai/Sequoia-X** – A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
 * **NousResearch/hermes-agent** – The agent that grows with you
-* **superlinked/sie** – Open-source inference server and production cluster for all the models your agent needs.
+* **anthropics/skills** – Public repository for Agent Skills
+* **blader/humanizer** – Agent skill that removes signs of AI-generated writing from text
+* **google-research/timesfm** – TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+* **Imbad0202/academic-research-skills** – Academic Research Skills for Claude Code: research → write → review → revise → finalize
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-03_
+_Last updated: 2026-09-04_
