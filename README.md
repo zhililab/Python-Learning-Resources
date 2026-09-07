@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **NousResearch/hermes-agent** – The agent that grows with you
-* **anthropics/skills** – Public repository for Agent Skills
+* **openai/skills** – Skills Catalog for Codex
 * **blader/humanizer** – Agent skill that removes signs of AI-generated writing from text
-* **bikini/exploitarium** – A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
-* **sgl-project/sglang** – SGLang is a high-performance serving framework for large language models and multimodal models.
+* **The-Swarm-Corporation/AutoHedge** – Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
+* **sooryathejas/METATRON** – AI-powered penetration testing assistant using local LLM on linux (Parrot OS)
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-06_
+_Last updated: 2026-09-07_
