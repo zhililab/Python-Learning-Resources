@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **ayghri/i-have-adhd** – A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-* **openai/skills** – Skills Catalog for Codex
-* **microsoft/markitdown** – Python tool for converting files and office documents to Markdown.
-* **browser-use/browser-use** – Agents that use the browser.
-* **The-Swarm-Corporation/AutoHedge** – Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
+* **earthtojake/text-to-cad** – A library of agent skills for CAD, CAE and CAM
+* **TauricResearch/TradingAgents** – TradingAgents: Multi-Agents LLM Financial Trading Framework
+* **rohitg00/ai-engineering-from-scratch** – Learn it. Build it. Ship it for others.
+* **public-apis/public-apis** – A collective list of free APIs
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-09_
+_Last updated: 2026-09-10_
