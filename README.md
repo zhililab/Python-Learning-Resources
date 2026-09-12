@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **ayghri/i-have-adhd** – A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-* **rohitg00/ai-engineering-from-scratch** – Learn it. Build it. Ship it for others.
-* **jiji262/douyin-downloader** – A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
-* **NVIDIA/Megatron-LM** – Ongoing research training transformer models at scale
-* **TauricResearch/TradingAgents** – TradingAgents: Multi-Agents LLM Financial Trading Framework
+* **jihe520/MathModelAgent** – 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
+* **jordan-gibbs/hyperresearch** – Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.
+* **github/spec-kit** – 💫 Toolkit to help you get started with Spec-Driven Development
+* **k2-fsa/OmniVoice** – High-Quality Voice Cloning TTS for 600+ Languages
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-11_
+_Last updated: 2026-09-12_
