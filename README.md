@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **ayghri/i-have-adhd** – A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 * **jihe520/MathModelAgent** – 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
-* **jordan-gibbs/hyperresearch** – Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.
-* **github/spec-kit** – 💫 Toolkit to help you get started with Spec-Driven Development
-* **k2-fsa/OmniVoice** – High-Quality Voice Cloning TTS for 600+ Languages
+* **Shubhamsaboo/awesome-llm-apps** – 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+* **SnailSploit/Claude-Red** – claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+* **multimodal-art-projection/YuE** – YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+* **ayghri/i-have-adhd** – A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-12_
+_Last updated: 2026-09-13_
