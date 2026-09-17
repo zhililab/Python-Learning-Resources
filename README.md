@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **debpalash/VoiceStudio** – VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-* **MG1937/ASC** – ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
-* **Panniantong/Agent-Reach** – Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+* **anthropics/knowledge-work-plugins** – Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+* **roboflow/supervision** – We write your reusable computer vision tools. 💜
+* **rlaope/oh-my-hermes** – All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
 * **SnailSploit/Claude-Red** – claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-* **ComposioHQ/awesome-claude-skills** – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+* **multimodal-art-projection/YuE** – YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-16_
+_Last updated: 2026-09-17_
