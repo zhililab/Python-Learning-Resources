@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **anthropics/knowledge-work-plugins** – Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 * **roboflow/supervision** – We write your reusable computer vision tools. 💜
-* **rlaope/oh-my-hermes** – All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
+* **TencentCloud/Octop** – A smarter, self-hosted AI assistant — multi-user, multi-agent.
+* **arnegiacomo/fugleramme** – E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 * **SnailSploit/Claude-Red** – claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-* **multimodal-art-projection/YuE** – YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-17_
+_Last updated: 2026-09-18_
