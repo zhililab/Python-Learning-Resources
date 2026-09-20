@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **TencentCloud/Octop** – A smarter, self-hosted AI assistant — multi-user, multi-agent.
+* **docling-project/docling** – Get your documents ready for gen AI
 * **anthropics/knowledge-work-plugins** – Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-* **jinchenma94/bazi-skill** – 四柱八字命理分析
-* **bobeff/open-source-games** – A list of open source games.
-* **NVIDIA/SkillSpector** – Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+* **cactus-compute/needle** – Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
+* **virattt/ai-hedge-fund** – An AI Hedge Fund Team
+* **NVIDIA/TensorRT-LLM** – TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-19_
+_Last updated: 2026-09-20_
