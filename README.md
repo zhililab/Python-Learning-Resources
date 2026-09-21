@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **docling-project/docling** – Get your documents ready for gen AI
-* **anthropics/knowledge-work-plugins** – Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-* **cactus-compute/needle** – Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
-* **virattt/ai-hedge-fund** – An AI Hedge Fund Team
-* **NVIDIA/TensorRT-LLM** – TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.
+* **anthropics/financial-services** – No description provided.
+* **paperless-ngx/paperless-ngx** – A community-supported supercharged document management system: scan, index and archive all your documents
+* **mihail911/modern-software-dev-assignments** – Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
+* **browser-use/browser-harness** – Browser Harness | Self-healing harness that enables LLMs to complete any task.
+* **FareedKhan-dev/train-llm-from-scratch** – A straightforward method for training your LLM, from downloading data to generating text.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-20_
+_Last updated: 2026-09-21_
