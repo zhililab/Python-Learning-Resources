@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **anthropics/financial-services** – No description provided.
+* **mvt-project/mvt** – MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
+* **zhouxiaoka/autoclip** – AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
+* **cv-cat/DouYin_Spider** – 抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听
 * **paperless-ngx/paperless-ngx** – A community-supported supercharged document management system: scan, index and archive all your documents
-* **mihail911/modern-software-dev-assignments** – Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
-* **browser-use/browser-harness** – Browser Harness | Self-healing harness that enables LLMs to complete any task.
-* **FareedKhan-dev/train-llm-from-scratch** – A straightforward method for training your LLM, from downloading data to generating text.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-21_
+_Last updated: 2026-09-22_
