@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **anthropics/financial-services** – No description provided.
 * **davila7/claude-code-templates** – CLI tool for configuring and monitoring Claude Code
-* **mvt-project/mvt** – MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
+* **strands-agents/harness-sdk** – Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
+* **HKUDS/CLI-Anything** – "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 * **superdesigndev/treg** – OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-* **browser-use/video-use** – Edit videos with coding agents
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_
