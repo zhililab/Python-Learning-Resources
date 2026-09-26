@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **rohitg00/ai-engineering-from-scratch** – Learn it. Build it. Ship it for others.
+* **anthropics/claude-plugins-official** – Official, Anthropic-managed directory of high quality Claude Code Plugins.
 * **vectorize-io/hindsight** – Hindsight: Agent Memory That Learns
-* **NVIDIA/Model-Optimizer** – A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
-* **anthropics/financial-services** – No description provided.
-* **HKUDS/CLI-Anything** – "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+* **anthropics/skills** – Public repository for Agent Skills
+* **derv82/wifit3** – Wifite but USB-only & cross-platform.
+* **rohitg00/ai-engineering-from-scratch** – Learn it. Build it. Ship it for others.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-25_
+_Last updated: 2026-09-26_
