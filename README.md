@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **debpalash/VoiceStudio** – VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 * **vectorize-io/hindsight** – Hindsight: Agent Memory That Learns
-* **0x4m4/hexstrike-ai** – HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
-* **ashhart/TensorFold** – Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint
 * **rohitg00/ai-engineering-from-scratch** – Learn it. Build it. Ship it for others.
+* **VectifyAI/PageIndex** – 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+* **harvard-edge/cs249r_book** – Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-29_
+_Last updated: 2026-09-30_
