@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **debpalash/VoiceStudio** – VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-* **vectorize-io/hindsight** – Hindsight: Agent Memory That Learns
-* **rohitg00/ai-engineering-from-scratch** – Learn it. Build it. Ship it for others.
+* **harry0703/MoneyPrinterTurbo** – 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+* **ComposioHQ/awesome-claude-skills** – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 * **VectifyAI/PageIndex** – 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-* **harvard-edge/cs249r_book** – Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai
+* **VectifyAI/OpenKB** – OpenKB: Open LLM Knowledge Base
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-09-30_
+_Last updated: 2026-10-01_
