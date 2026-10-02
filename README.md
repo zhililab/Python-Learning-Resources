@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **debpalash/VoiceStudio** – VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-* **harry0703/MoneyPrinterTurbo** – 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-* **ComposioHQ/awesome-claude-skills** – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+* **tile-ai/tilelang** – Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+* **HunxByts/GhostTrack** – Useful tool to track location or mobile number
+* **Friedrich-M/UniMate** – [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons
 * **VectifyAI/PageIndex** – 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-* **VectifyAI/OpenKB** – OpenKB: Open LLM Knowledge Base
+* **ComposioHQ/awesome-claude-skills** – A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-10-01_
+_Last updated: 2026-10-02_
