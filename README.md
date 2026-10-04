@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **Panniantong/Agent-Reach** – Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-* **google/skills** – Agent Skills for Google products and technologies
 * **getsentry/sentry** – Developer-first error tracking and performance monitoring
-* **HunxByts/GhostTrack** – Useful tool to track location or mobile number
-* **tile-ai/tilelang** – Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+* **jamwithai/production-agentic-rag-course** – No description provided.
+* **meituan-longcat/LongCat-Video** – No description provided.
+* **datalab-to/chandra** – OCR model that handles complex tables, forms, handwriting with full layout.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-10-03_
+_Last updated: 2026-10-04_
