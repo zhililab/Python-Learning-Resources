@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **anthropics/knowledge-work-plugins** – Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-* **earthtojake/text-to-cad** – Give your agent CAD superpowers.
+* **BerriAI/litellm** – The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
+* **Robbyant/lingbot-map** – [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
+* **Tencent-Hunyuan/Hy-MT2** – No description provided.
 * **ayghri/i-have-adhd** – A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-* **Tracer-Cloud/opensre** – Build your own AI SRE agents. The open source toolkit for the AI era.
-* **abrignoni/ALEAPP** – Android Logs Events And Protobuf Parser
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-10-09_
+_Last updated: 2026-10-10_
