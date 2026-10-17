@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **anthropics/claude-plugins-official** – Official, Anthropic-managed directory of high quality Claude Code Plugins.
 * **K-Dense-AI/scientific-agent-skills** – Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+* **HKUDS/CLI-Anything** – "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 * **debpalash/VoiceStudio** – VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-* **lightseekorg/tokenspeed** – TokenSpeed is a speed-of-light LLM inference engine.
-* **Crosstalk-Solutions/unifi-toolkit** – A suite of tools for UniFi network management
+* **MadsLorentzen/ai-job-search** – The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-10-16_
+_Last updated: 2026-10-17_
