@@ -62,9 +62,9 @@ Here are some of the Python repositories trending on GitHub today:
 
 * **MadsLorentzen/ai-job-search** – The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 * **Comfy-Org/ComfyUI** – The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+* **Graphify-Labs/graphify** – Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 * **headroomlabs-ai/headroom** – Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-* **Kruk2/jasna** – Video restoration tool
-* **HKUDS/CLI-Anything** – "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+* **anthropics/knowledge-work-plugins** – Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-10-20_
+_Last updated: 2026-10-21_
