@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **HKUDS/DeepTutor** – DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-* **debpalash/VoiceStudio** – VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-* **p-e-w/heretic** – Fully automatic censorship removal for language models
-* **AgriciDaniel/claude-seo** – Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+* **github/spec-kit** – 💫 Toolkit to help you get started with SDD or any other process!
+* **rohitg00/ai-engineering-from-scratch** – Learn AI Engineering! Learn it. Build it. Ship it for others.
 * **baidu/Unlimited-OCR** – Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+* **p-e-w/heretic** – Fully automatic censorship removal for language models
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-10-29_
+_Last updated: 2026-10-30_
