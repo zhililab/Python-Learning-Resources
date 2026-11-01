@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **HKUDS/DeepTutor** – DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+* **bregman-arie/devops-exercises** – Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+* **0x0funky/agent-sprite-forge** – Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
 * **anthropics/skills** – Public repository for Agent Skills
-* **MemPalace/mempalace** – The best-benchmarked open-source AI memory system. And it's free.
-* **vectorize-io/hindsight** – Hindsight: Agent Memory That Learns
-* **langchain-ai/deepagents** – The batteries-included agent harness.
+* **calesthio/OpenMontage** – World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-10-31_
+_Last updated: 2026-11-01_
