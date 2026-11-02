@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **HKUDS/DeepTutor** – DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-* **bregman-arie/devops-exercises** – Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-* **0x0funky/agent-sprite-forge** – Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
-* **anthropics/skills** – Public repository for Agent Skills
-* **calesthio/OpenMontage** – World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+* **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
+* **public-apis/public-apis** – A collective list of free APIs
+* **kornia/kornia** – 🐍 Geometric Computer Vision Library for Spatial AI
+* **beenuar/AiSOC** – Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
+* **FlashML-org/FreeToken** – FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-11-01_
+_Last updated: 2026-11-02_
