@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
+* **p-e-w/heretic** – Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
+* **Usagi-org/ai-goofish-monitor** – 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 * **D4Vinci/Scrapling** – 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
-* **FlashML-org/FreeToken** – FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 * **shiyu-coder/Kronos** – Kronos: A Foundation Model for the Language of Financial Markets
-* **kornia/kornia** – 🐍 Geometric Computer Vision Library for Spatial AI
-* **karpathy/nanochat** – The best ChatGPT that $100 can buy.
+* **calesthio/OpenMontage** – World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_
