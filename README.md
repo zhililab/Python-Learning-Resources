@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **NVIDIA/auto-ontology** – Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 * **google/skills** – Agent Skills for Google products and technologies
-* **psf/requests** – A simple, yet elegant, HTTP library.
-* **NVIDIA/TensorRT-LLM** – TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.
-* **apache/airflow** – Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+* **anthropics/skills** – Public repository for Agent Skills
+* **sherlock-project/sherlock** – Hunt down social media accounts by username across social networks
+* **mbillow/localthings** – Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
+* **microsoft/VibeVoice** – Open-Source Frontier Voice AI
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-11-07_
+_Last updated: 2026-11-08_
