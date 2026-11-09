@@ -60,11 +60,11 @@ For a comprehensive reference, consult the full PEP 8 document【61536897467761
 The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
-* **google/skills** – Agent Skills for Google products and technologies
-* **anthropics/skills** – Public repository for Agent Skills
 * **sherlock-project/sherlock** – Hunt down social media accounts by username across social networks
-* **mbillow/localthings** – Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
-* **microsoft/VibeVoice** – Open-Source Frontier Voice AI
+* **anthropics/claude-quickstarts** – A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+* **anthropics/skills** – Public repository for Agent Skills
+* **jamiepine/voicebox** – The open-source AI voice studio. Clone, dictate, create.
+* **googlecolab/google-colab-cli** – A CLI for interacting with Google Colab runtimes
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-11-08_
+_Last updated: 2026-11-09_
