@@ -61,10 +61,10 @@ The open‑source community produces a wealth of high‑quality projects.
 Here are some of the Python repositories trending on GitHub today:
 
 * **anthropics/skills** – Public repository for Agent Skills
-* **sherlock-project/sherlock** – Hunt down social media accounts by username across social networks
 * **anthropics/claude-quickstarts** – A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-* **ZhuLinsen/daily_stock_analysis** – LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
 * **homeassistant-ai/ha-mcp** – Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
+* **sherlock-project/sherlock** – Hunt down social media accounts by username across social networks
+* **OpenBMB/VoxCPM** – VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 For further inspiration, check out established resources such as
 **system‑design‑primer** for learning how to design large‑scale
 systems【836895632859947†L206-L217】 and **awesome‑python**, a curated list of
@@ -72,4 +72,4 @@ libraries and frameworks【836895632859947†L223-L236】.  The **TheAlgorithms/
 repository implements many algorithms in Python and is updated
 regularly【836895632859947†L240-L251】.
 
-_Last updated: 2026-11-10_
+_Last updated: 2026-11-11_
